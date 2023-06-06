@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_PkwiEP3dEe2ubbd4FbH97Q" type="Dsl" name="EditProject.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_QWuxkP3dEe2ubbd4FbH97Q" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QWuxlv3dEe2ubbd4FbH97Q" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_QWuxl_3dEe2ubbd4FbH97Q" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_kpCXsP3eEe2ubbd4FbH97Q" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_kpCXtv3eEe2ubbd4FbH97Q" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_kpCXt_3eEe2ubbd4FbH97Q" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_kpCXuP3eEe2ubbd4FbH97Q" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXuv3eEe2ubbd4FbH97Q" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXu_3eEe2ubbd4FbH97Q" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="EditProject.sl#qmlcfe6d5bd3e404fb9998098fdda40d598"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kpCXuf3eEe2ubbd4FbH97Q" x="7" y="18" width="151" height="25"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_kpCXvP3eEe2ubbd4FbH97Q" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXvv3eEe2ubbd4FbH97Q" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXv_3eEe2ubbd4FbH97Q" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="EditProject.sl#qmlfe8ee5ce8a8e4eea920c8af8e931e40f"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kpCXvf3eEe2ubbd4FbH97Q" x="1" y="212" width="157" height="25"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_kpCXwP3eEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXxf3eEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_kpCXwf3eEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_kpCXwv3eEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_kpCXw_3eEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qmlb0eb614c8ea9423ca8fe3e033cfafd48"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kpCXxP3eEe2ubbd4FbH97Q" x="43" y="269" width="133" height="37"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_kpCXxv3eEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXyP3eEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXyf3eEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXyv3eEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qml43b664edbe364de086f3950156fc9445"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kpCXx_3eEe2ubbd4FbH97Q" x="13" y="62" width="97" height="19"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_kpCXy_3eEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXzf3eEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXzv3eEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCXz_3eEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qmlcb1e9b33517d425697377ebd48098fee"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kpCXzP3eEe2ubbd4FbH97Q" x="13" y="104" width="115" height="25"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_kpCX0P3eEe2ubbd4FbH97Q" type="3011" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_kpCX0v3eEe2ubbd4FbH97Q" type="5012"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:CheckBox" href="EditProject.sl#qmlbabde295e1e742808f75e599ac789cef"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kpCX0f3eEe2ubbd4FbH97Q" x="13" y="152" width="151" height="31"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_kpCXsf3eEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_kpCXsv3eEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_kpCXs_3eEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_kpCXtP3eEe2ubbd4FbH97Q"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="EditProject.sl#qml633d9743ce5f4d5e805c9c5d55ae567b"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kpCXtf3eEe2ubbd4FbH97Q" x="49" y="31" width="277" height="363"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_T8XwoP3fEe2ubbd4FbH97Q" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T8Xwpv3fEe2ubbd4FbH97Q" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T8Xwp_3fEe2ubbd4FbH97Q" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_YxK8YP3fEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_YxK8Zf3fEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_YxK8Yf3fEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_YxK8Yv3fEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_YxK8Y_3fEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml89076d0acf604e80a434b4a18208dd65"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YxK8ZP3fEe2ubbd4FbH97Q" x="19" y="12" width="139" height="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iMtpwP3fEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_iMtpxf3fEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_iMtpwf3fEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_iMtpwv3fEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_iMtpw_3fEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml1e13c911348c4735bf39e1e0ee45ebae"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iMtpxP3fEe2ubbd4FbH97Q" x="31" y="108" width="127" height="31"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_mrY0gP3fEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_mrY0gv3fEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_mrY0g_3fEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_mrY0hP3fEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qml7fc8f16b9ed44cec94d864e49063bad5"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mrY0gf3fEe2ubbd4FbH97Q" x="19" y="54" width="127" height="43"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_T8Xwof3fEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_T8Xwov3fEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_T8Xwo_3fEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_T8XwpP3fEe2ubbd4FbH97Q"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="EditProject.sl#qml43d705d50a0c45c0a78d4dba378719c6"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T8Xwpf3fEe2ubbd4FbH97Q" x="402" y="12" width="271" height="217"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_5lK98P3fEe2ubbd4FbH97Q" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_5lK99f3fEe2ubbd4FbH97Q" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_5lK98f3fEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_5lK98v3fEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_5lK98_3fEe2ubbd4FbH97Q"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml7e9454f6ed6c48778cfee79e1d7eca84"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5lK99P3fEe2ubbd4FbH97Q" x="127" y="408" width="139" height="37"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_AYrSEP3gEe2ubbd4FbH97Q" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_AYrSFv3gEe2ubbd4FbH97Q" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_AY1DEP3gEe2ubbd4FbH97Q" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_QTDEEP3gEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_QTDEEv3gEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_QTDEE_3gEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_QTDEFP3gEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qml922ef30681a3463e98b7038a5f27342a"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QTDEEf3gEe2ubbd4FbH97Q" x="7" y="6" width="115" height="43"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_S5ilMP3gEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_S5ilNf3gEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_S5ilMf3gEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_S5ilMv3gEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_S5ilM_3gEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qmlbd69fd76a87c4cf3af02b62e39f5ca2a"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S5ilNP3gEe2ubbd4FbH97Q" x="1" y="42" width="109" height="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Etqf4P3hEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Etqf5f3hEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_Etqf4f3hEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_Etqf4v3hEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_Etqf4_3hEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qmlb6fcb984eb1342f585779bee0042cead"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Etqf5P3hEe2ubbd4FbH97Q" x="145" y="48" width="91" height="31"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_V6Sj8P3hEe2ubbd4FbH97Q" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_V6Sj8v3hEe2ubbd4FbH97Q" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_V6Sj8_3hEe2ubbd4FbH97Q" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="EditProject.sl#qml932dfd9e85ea4b7fa1205ba08020cee2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_V6Sj8f3hEe2ubbd4FbH97Q" x="-5" y="84" width="104" height="31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_X-CkYP3hEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_X-CkZf3hEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_X-CkYf3hEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_X-CkYv3hEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_X-CkY_3hEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qmlfbe63db5c6d54908b29645c3f7e5bf23"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X-CkZP3hEe2ubbd4FbH97Q" x="-4" y="120" width="121" height="43"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ppMiEP3iEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ppMiFf3iEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_ppMiEf3iEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_ppMiEv3iEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_ppMiE_3iEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qmla04775fe3a7445e5af7809a8b086d8ad"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ppMiFP3iEe2ubbd4FbH97Q" x="157" y="120" width="91" height="49"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_AYrSEf3gEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_AYrSEv3gEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_AYrSE_3gEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_AYrSFP3gEe2ubbd4FbH97Q"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="EditProject.sl#qmle2717706c8d9411397df2eaae3c12347"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AYrSFf3gEe2ubbd4FbH97Q" x="390" y="228" width="271" height="217"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_y4va0P3iEe2ubbd4FbH97Q" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_y4va1v3iEe2ubbd4FbH97Q" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_y4va1_3iEe2ubbd4FbH97Q" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_y4va2P3iEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va2v3iEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va2_3iEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va3P3iEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qmlecf0e0c7220b4e5e999531a2ded2307f"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y4va2f3iEe2ubbd4FbH97Q" x="7" y="6" width="115" height="43"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_y4va3f3iEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va4v3iEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_y4va3v3iEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_y4va3_3iEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_y4va4P3iEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qmldca9fc0c87f640e0a9ad8bc84fe097ad"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y4va4f3iEe2ubbd4FbH97Q" x="1" y="42" width="109" height="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_y4va4_3iEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va6P3iEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_y4va5P3iEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_y4va5f3iEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_y4va5v3iEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml9b7cc1b5c73a4d878e45f6a7f4e2efd6"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y4va5_3iEe2ubbd4FbH97Q" x="145" y="48" width="91" height="31"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_y4va6f3iEe2ubbd4FbH97Q" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va6_3iEe2ubbd4FbH97Q" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va7P3iEe2ubbd4FbH97Q" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="EditProject.sl#qmld1ad2c6f43d84572b053b727c292b81f"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y4va6v3iEe2ubbd4FbH97Q" x="-5" y="84" width="104" height="31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_y4va7f3iEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va8v3iEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_y4va7v3iEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_y4va7_3iEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_y4va8P3iEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml1d8967a54c5f4c01a84aaf16fc95335f"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y4va8f3iEe2ubbd4FbH97Q" x="-4" y="120" width="121" height="43"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_y4va8_3iEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_y4va-P3iEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_y4va9P3iEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_y4va9f3iEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_y4va9v3iEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml21df506ce4ce4e5fa4c9bc1782f71fb1"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y4va9_3iEe2ubbd4FbH97Q" x="157" y="120" width="91" height="49"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_y4va0f3iEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_y4va0v3iEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_y4va0_3iEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_y4va1P3iEe2ubbd4FbH97Q"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="EditProject.sl#qml28f80ebd1acf4c13b8a626cb5a27fa71"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y4va1f3iEe2ubbd4FbH97Q" x="793" y="425" width="271" height="217"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_WD1PkP3jEe2ubbd4FbH97Q" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_WD1Plv3jEe2ubbd4FbH97Q" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_WD1Pl_3jEe2ubbd4FbH97Q" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_WD1PmP3jEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WD1Pmv3jEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_WD1Pm_3jEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_WD1PnP3jEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qml5266c29971ee46d7b43a14cc2c91af18"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WD1Pmf3jEe2ubbd4FbH97Q" x="7" y="6" width="115" height="43"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WD1Pnf3jEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WD1Pov3jEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WD1Pnv3jEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_WD1Pn_3jEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_WD1PoP3jEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml2fbc135b9e1645f9975b0ec6f732d11c"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WD1Pof3jEe2ubbd4FbH97Q" x="1" y="42" width="109" height="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WD1Po_3jEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WD1PqP3jEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WD1PpP3jEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_WD1Ppf3jEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_WD1Ppv3jEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml9f7b22ea4f364ae3922aca863c6d972b"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WD1Pp_3jEe2ubbd4FbH97Q" x="145" y="48" width="91" height="31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WD1Ps_3jEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WD1PuP3jEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WD1PtP3jEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_WD1Ptf3jEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_WD1Ptv3jEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml27259df38cc747ac9b12d974be955d6a"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WD1Pt_3jEe2ubbd4FbH97Q" x="80" y="125" width="91" height="49"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_7np2QP3jEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_7np2Qv3jEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_7np2Q_3jEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_7np2RP3jEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qml48a5f90299ed4d7384f9a021fcb8213c"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7np2Qf3jEe2ubbd4FbH97Q" x="1" y="89" width="133" height="31"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_WD1Pkf3jEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_WD1Pkv3jEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_WD1Pk_3jEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_WD1PlP3jEe2ubbd4FbH97Q"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="EditProject.sl#qml067a7293cdd34ad4a463cb0557144214"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WD1Plf3jEe2ubbd4FbH97Q" x="396" y="468" width="271" height="217"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UlbicP3kEe2ubbd4FbH97Q" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Ulbidv3kEe2ubbd4FbH97Q" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Ulbid_3kEe2ubbd4FbH97Q" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_YqWJYP3kEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_YqWJZf3kEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_YqWJYf3kEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_YqWJYv3kEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_YqWJY_3kEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml6505cd60e5b64720b915cb1f623943e2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YqWJZP3kEe2ubbd4FbH97Q" x="163" y="29" width="127" height="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_abCq8P3kEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_abCq9f3kEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_abCq8f3kEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_abCq8v3kEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_abCq8_3kEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml1307e87c172f45c39f6ddb56428b2670"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abCq9P3kEe2ubbd4FbH97Q" x="163" y="95" width="121" height="31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_cxfk8P3kEe2ubbd4FbH97Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_cxfk9f3kEe2ubbd4FbH97Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_cxfk8f3kEe2ubbd4FbH97Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_cxfk8v3kEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_cxfk8_3kEe2ubbd4FbH97Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qml9b47c7edc028409f97d62c172dce4e26"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cxfk9P3kEe2ubbd4FbH97Q" x="31" y="125" width="139" height="43"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_gxkIIP3kEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_gxkIIv3kEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_gxkII_3kEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_gxkIJP3kEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qml1fc10171aa2b4b9f9a9b6dc4517c1e2e"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gxkIIf3kEe2ubbd4FbH97Q" x="13" y="17" width="91" height="37"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_Ulbicf3kEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_Ulbicv3kEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_Ulbic_3kEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_UlbidP3kEe2ubbd4FbH97Q"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="EditProject.sl#qml66f0d4a34b364b4780a001901c87d92e"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ulbidf3kEe2ubbd4FbH97Q" x="37" y="666" width="343" height="223"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_rEHWAP3kEe2ubbd4FbH97Q" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_rEHWBv3kEe2ubbd4FbH97Q" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_rEHWB_3kEe2ubbd4FbH97Q" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_tdLfIP3kEe2ubbd4FbH97Q" type="3048" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_tdLfIv3kEe2ubbd4FbH97Q" type="5072"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:ListBox" href="EditProject.sl#qml5afe9b2dfa5f41fa8c88ac054d7209f8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tdLfIf3kEe2ubbd4FbH97Q" x="31" y="12" width="247" height="79"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_ziDysP3kEe2ubbd4FbH97Q" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ziDysv3kEe2ubbd4FbH97Q" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ziDys_3kEe2ubbd4FbH97Q" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ziDytP3kEe2ubbd4FbH97Q" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="EditProject.sl#qml7b6bf56e33d049aa8b8990d4654cace4"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ziDysf3kEe2ubbd4FbH97Q" x="25" y="102" width="229" height="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_QdYZ0P6mEe2ciPucyGu-1g" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_QdYZ1f6mEe2ciPucyGu-1g" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_QdYZ0f6mEe2ciPucyGu-1g"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_QdYZ0v6mEe2ciPucyGu-1g" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_QdYZ0_6mEe2ciPucyGu-1g"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="EditProject.sl#qmlf2d0b2328d3a42248a14b86cec1a52ce"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QdYZ1P6mEe2ciPucyGu-1g" x="133" y="163" width="109" height="25"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_rEHWAf3kEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_rEHWAv3kEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_rEHWA_3kEe2ubbd4FbH97Q"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_rEHWBP3kEe2ubbd4FbH97Q"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="EditProject.sl#qmld3c0d48ce359446aa51438931cfee9ec"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rEHWBf3kEe2ubbd4FbH97Q" x="439" y="689" width="361" height="242"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_QWuxkf3dEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_QWuxkv3dEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_QWuxk_3dEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_QWuxlP3dEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="EditProject.sl#qmlfaa46842c3fb4e5ca3defa9296fbda99"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QWuxlf3dEe2ubbd4FbH97Q" x="30" y="24" width="1111" height="985"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_4sBk4P3eEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_4sBk5v3eEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_4sBk5_3eEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_4sBk6v3eEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4sBk7P3eEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml24577e52403c4cca8ce010942053352f"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4sBk6_3eEe2ubbd4FbH97Q" x="-90" y="422" width="133" height="22"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_4sBk7f3eEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4sBk7_3eEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmlbe654a2c0fba4c6985fe30c523dcd449"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4sBk7v3eEe2ubbd4FbH97Q" x="-90" y="444" width="133" height="22"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_4sBk6P3eEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_4sBk6f3eEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_4sBk4f3eEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_4sBk4v3eEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_4sBk4_3eEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_4sBk5P3eEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qmlab245c988c8545a5b03a91a4dcc8b8cc"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4sBk5f3eEe2ubbd4FbH97Q" x="12" y="306" width="145" height="211"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_-4-2YP3eEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-4-2Zv3eEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_-4-2Z_3eEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_-4-2av3eEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-4-2bP3eEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml85b169249837482e857682cab13f9030"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-4-2a_3eEe2ubbd4FbH97Q" x="-96" y="1664" width="385" height="22"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_-4-2bf3eEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-4-2b_3eEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmld00bef78e2a24a37884ada091d7fc910"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-4-2bv3eEe2ubbd4FbH97Q" x="-96" y="1686" width="385" height="22"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_-4-2cP3eEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-4-2cv3eEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml60f307b2e51f48eb858ef5e3cab1f5ba"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-4-2cf3eEe2ubbd4FbH97Q" x="-96" y="1708" width="385" height="22"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_-4-2c_3eEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-4-2df3eEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmlced16c8849574587abea8788c6220700"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-4-2dP3eEe2ubbd4FbH97Q" x="-96" y="1730" width="385" height="22"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_-4-2aP3eEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_-4-2af3eEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_-4-2Yf3eEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_-4-2Yv3eEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_-4-2Y_3eEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_-4-2ZP3eEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qml08097e5e8d714399b7e3bc199e4cba50"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-4-2Zf3eEe2ubbd4FbH97Q" x="-12" y="552" width="397" height="151"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_psvssP3fEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_psvstv3fEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_psvst_3fEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_roXr4P3fEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_roXr4v3fEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmlda415a18d4e544d0a7d8e7fe8b341873"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_roXr4f3fEe2ubbd4FbH97Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_uqFwcP3fEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_uqFwcv3fEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmlb120a19f0be54a2194961ac8f903370b"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uqFwcf3fEe2ubbd4FbH97Q"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_psvsuP3fEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_psvsuf3fEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_psvssf3fEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_psvssv3fEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_psvss_3fEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_psvstP3fEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qmle5f6ba9fc63946c993ea3ce3ca1da4a2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_psvstf3fEe2ubbd4FbH97Q" x="798" y="78" width="109" height="211"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_HFM_AP3hEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_HFM_Bv3hEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_HFM_B_3hEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_PHezYP3hEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_PHezYv3hEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml33ab1fd0fcd34bba914b4cc7476594b9"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PHezYf3hEe2ubbd4FbH97Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_PMeoIP3hEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_PMeoIv3hEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmlb0550206235f49359222d9b1e6d0b950"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PMeoIf3hEe2ubbd4FbH97Q"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_HFM_CP3hEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_HFM_Cf3hEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_HFM_Af3hEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_HFM_Av3hEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_HFM_A_3hEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_HFM_BP3hEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qmla20263bd6d234b7d98b7d7586a58b556"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HFM_Bf3hEe2ubbd4FbH97Q" x="960" y="150" width="111" height="109"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_DJ1DsP3jEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_DJ1Dtv3jEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DJ1Dt_3jEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_EfvtwP3jEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Efvtwv3jEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml397a719fe51f4ba0bbc0e15eaf68695f"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Efvtwf3jEe2ubbd4FbH97Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Ewh7wP3jEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Ewh7wv3jEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml94af77b8c43d4ac280424b6f6167ac3f"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ewh7wf3jEe2ubbd4FbH97Q"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_DJ1DuP3jEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_DJ1Duf3jEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_DJ1Dsf3jEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_DJ1Dsv3jEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_DJ1Ds_3jEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_DJ1DtP3jEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qml29e8eebbafe44c1a8cb011df06cd5306"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DJ1Dtf3jEe2ubbd4FbH97Q" x="1128" y="372" width="103" height="121"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_n9QvQP3jEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_n9QvRv3jEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_n9QvR_3jEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_n9QvSv3jEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_n9QvTP3jEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml9566723d2df04e5aae8772333789e108"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n9QvS_3jEe2ubbd4FbH97Q" x="1134" y="404" width="91" height="22"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_n9QvTf3jEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_n9QvT_3jEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmld1e2c8f4ce994a0eb9eceaef0004220a"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n9QvTv3jEe2ubbd4FbH97Q" x="1134" y="426" width="91" height="22"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_n9QvSP3jEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_n9QvSf3jEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_n9QvQf3jEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_n9QvQv3jEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_n9QvQ_3jEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_n9QvRP3jEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qmlf74b27d5bdfd405a8866b7793f3b3f11"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n9QvRf3jEe2ubbd4FbH97Q" x="942" y="666" width="103" height="121"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_DgZUIP3kEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_DgZUJv3kEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DgZUJ_3kEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_IsflkP3kEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Isflkv3kEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml04103e7876614cdfbf36977379dd540a"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Isflkf3kEe2ubbd4FbH97Q"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_DgZUKP3kEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_DgZUKf3kEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_DgZUIf3kEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_DgZUIv3kEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_DgZUI_3kEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_DgZUJP3kEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qmlaca944d183624e3e90d336d8d8e94ef6"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DgZUJf3kEe2ubbd4FbH97Q" x="1146" y="672" width="109" height="109"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_i0544P3kEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_i0545v3kEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_i0545_3kEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_lAzIsP3kEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_lAzIsv3kEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml136d57bb0e7d45b79cc0e46eb5efb2fb"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lAzIsf3kEe2ubbd4FbH97Q"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_i0546P3kEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_i0546f3kEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_i0544f3kEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_i0544v3kEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_i0544_3kEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_i0545P3kEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qml01a5fd5159b146f3b929a738b8eca0bd"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i0545f3kEe2ubbd4FbH97Q" x="1152" y="804" width="97" height="85"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_5Fb7sP3kEe2ubbd4FbH97Q" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_5Fb7tv3kEe2ubbd4FbH97Q" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_5Fb7t_3kEe2ubbd4FbH97Q" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_8UIFQP3kEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_8UIFQv3kEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml0e34450f559a4836a11369e8553797ab"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8UIFQf3kEe2ubbd4FbH97Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_8cPfcP3kEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_8cPfcv3kEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmla3f2e9fb345e4538a940f5420eac09b8"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8cPfcf3kEe2ubbd4FbH97Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_8gVVQP3kEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_8gVVQv3kEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml2d80ace0ff25435489c41d3c7107ec94"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8gVVQf3kEe2ubbd4FbH97Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_8k_LwP3kEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_8k_Lwv3kEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml5191d7df313446a3bb9d632be57811ce"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8k_Lwf3kEe2ubbd4FbH97Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_8rzlcP3kEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_8rzlcv3kEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qmlc708134db7eb48acac267fd6d4baa3d0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8rzlcf3kEe2ubbd4FbH97Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_8uOAQP3kEe2ubbd4FbH97Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_8uOAQv3kEe2ubbd4FbH97Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="EditProject.sl#qml176fea998b74467d979c02cc1021c282"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8uOAQf3kEe2ubbd4FbH97Q"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_5Fb7uP3kEe2ubbd4FbH97Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_5Fb7uf3kEe2ubbd4FbH97Q"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_5Fb7sf3kEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_5Fb7sv3kEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_5Fb7s_3kEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_5Fb7tP3kEe2ubbd4FbH97Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="EditProject.sl#qmle4a26c0470e14b278c1da513d43ce04d"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Fb7tf3kEe2ubbd4FbH97Q" x="1164" y="888" width="121" height="181"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_PkwiEf3dEe2ubbd4FbH97Q"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="EditProject.sl#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_FlpisP3fEe2ubbd4FbH97Q" type="4005" source="_kpCXxv3eEe2ubbd4FbH97Q" target="_-4-2YP3eEe2ubbd4FbH97Q">
+    <children xmi:type="notation:DecorationNode" xmi:id="_FlpitP3fEe2ubbd4FbH97Q" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_Flpitf3fEe2ubbd4FbH97Q"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Flpitv3fEe2ubbd4FbH97Q" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_Flpisf3fEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Flpisv3fEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Flpis_3fEe2ubbd4FbH97Q" points="[-2, 10, 70, -401]$[-59, 336, 13, -75]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_HD2mEP3fEe2ubbd4FbH97Q" type="4005" source="_kpCXy_3eEe2ubbd4FbH97Q" target="_4sBk4P3eEe2ubbd4FbH97Q">
+    <children xmi:type="notation:DecorationNode" xmi:id="_HD2mFP3fEe2ubbd4FbH97Q" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_HD2mFf3fEe2ubbd4FbH97Q"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HD2mFv3fEe2ubbd4FbH97Q" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_HD2mEf3fEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_HD2mEv3fEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HD2mE_3fEe2ubbd4FbH97Q" points="[-15, 13, 168, -137]$[-110, 91, 73, -59]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_wip0kP3fEe2ubbd4FbH97Q" type="4005" source="_mrY0gP3fEe2ubbd4FbH97Q" target="_psvssP3fEe2ubbd4FbH97Q">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wip0lP3fEe2ubbd4FbH97Q" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_wip0lf3fEe2ubbd4FbH97Q"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_wip0lv3fEe2ubbd4FbH97Q" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_wip0kf3fEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_wip0kv3fEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wip0k_3fEe2ubbd4FbH97Q" points="[64, 11, -467, -79]$[477, 81, -54, -9]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_UFOfwP3hEe2ubbd4FbH97Q" type="4005" source="_QTDEEP3gEe2ubbd4FbH97Q" target="_HFM_AP3hEe2ubbd4FbH97Q">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UFOfxP3hEe2ubbd4FbH97Q" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_UFOfxf3hEe2ubbd4FbH97Q"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UFOfxv3hEe2ubbd4FbH97Q" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_UFOfwf3hEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_UFOfwv3hEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UFOfw_3hEe2ubbd4FbH97Q" points="[58, 5, -402, -34]$[405, 34, -55, -5]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_KDEMYP3jEe2ubbd4FbH97Q" type="4005" source="_y4va2P3iEe2ubbd4FbH97Q" target="_DJ1DsP3jEe2ubbd4FbH97Q">
+    <children xmi:type="notation:DecorationNode" xmi:id="_KDEMZP3jEe2ubbd4FbH97Q" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_KDEMZf3jEe2ubbd4FbH97Q"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_KDEMZv3jEe2ubbd4FbH97Q" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_KDEMYf3jEe2ubbd4FbH97Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_KDEMYv3jEe2ubbd4FbH97Q" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_KDEMY_3jEe2ubbd4FbH97Q" points="[58, -21, -212, 79]$[219, -81, -51, 19]"/>
+  </edges>
+</notation:Diagram>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel TestSuite" parallel="methods" thread-count="2">
+ <test name="Parallel TestCase" >
+    <classes>
+      <class name="testsuite.Enter_Login_Details"/>
+      <class name="testsuite.Enter_Login_DetailsReport_new_issue"/>
+      <class name="testsuite.Enter_Login_DetailsCreate_Project"/>
+      <class name="testsuite.Enter_Login_DetailsSend_a_reminderReminder_submit"/>
+    </classes>
+ </test>
+</suite>

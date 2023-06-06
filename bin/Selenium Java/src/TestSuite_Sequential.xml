@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" verbose="1">
+ <test name="TestCase1" >
+    <classes>
+      <class name="testsuite.Enter_Login_Details"/>
+    </classes>
+ </test>
+ <test name="TestCase2" >
+    <classes>
+      <class name="testsuite.Enter_Login_DetailsReport_new_issue"/>
+    </classes>
+ </test>
+ <test name="TestCase3" >
+    <classes>
+      <class name="testsuite.Enter_Login_DetailsCreate_Project"/>
+    </classes>
+ </test>
+ <test name="TestCase4" >
+    <classes>
+      <class name="testsuite.Enter_Login_DetailsSend_a_reminderReminder_submit"/>
+    </classes>
+ </test>
+</suite>
