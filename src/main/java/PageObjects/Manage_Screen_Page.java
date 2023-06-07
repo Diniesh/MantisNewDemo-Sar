@@ -2600,7 +2600,7 @@ public void click_Manage_Custom_Fields(){
 //public void click_Type(){
 //		Type.click();
 //}
-//
+
 //@FindBy(how= How.XPATH, using = "//div[normalize-space()='Name']")
 //	public static WebElement Name;
 //

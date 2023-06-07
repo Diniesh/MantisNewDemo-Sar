@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -40,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-TestSuite" class="navigator-link">
-              <span class="suite-name border-failed">TestSuite</span>
+              <span class="suite-name border-passed">TestSuite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -51,12 +51,12 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-TestSuite" class="navigator-link ">
-                    <span>C:\Users\kumaran\workspace\MantisPositive\src\main\java\TestSuite_Sequential.xml</span>
+                    <span>C:\Users\DhineshlingamNataraj\Downloads\MantisScriptSar_demo\src\main\java\TestSuite_Sequential.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
                   <a href="#" panel-name="testlist-TestSuite" class="navigator-link ">
-                    <span class="test-stats">1 test</span>
+                    <span class="test-stats">3 tests</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -93,21 +93,31 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">3 methods,   3 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-TestSuite" class="hide-methods failed suite-TestSuite"> (hide)</a> <!-- hide-methods failed suite-TestSuite -->
-                      <a href="#" panel-name="suite-TestSuite" class="show-methods failed suite-TestSuite"> (show)</a> <!-- show-methods failed suite-TestSuite -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-TestSuite" class="hide-methods passed suite-TestSuite"> (hide)</a> <!-- hide-methods passed suite-TestSuite -->
+                      <a href="#" panel-name="suite-TestSuite" class="show-methods passed suite-TestSuite"> (show)</a> <!-- show-methods passed suite-TestSuite -->
                     </span>
-                    <div class="method-list-content failed suite-TestSuite">
+                    <div class="method-list-content passed suite-TestSuite">
                       <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-TestSuite" title="testsuite.Enter_Login_DetailsReport_new_issue" class="method navigator-link" hash-for-method="test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)</a> <!-- method navigator-link -->
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-TestSuite" title="testsuite.EmptyUsername" class="method navigator-link" hash-for-method="test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, , Dont care, Dont ca...)">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, , Dont care, Dont ca...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-TestSuite -->
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-TestSuite" title="testsuite.Emptypassword" class="method navigator-link" hash-for-method="test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-TestSuite" title="testsuite.Invalidpassword" class="method navigator-link" hash-for-method="test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-TestSuite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -119,10 +129,10 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-TestSuite" class="panel TestSuite">
-          <div class="suite-TestSuite-class-failed">
+          <div class="suite-TestSuite-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">testsuite.Enter_Login_DetailsReport_new_issue</span>
+              <img src="passed.png"/>
+              <span class="class-name">testsuite.Emptypassword</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
@@ -130,26 +140,47 @@
                   <a name="test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)">
                   </a> <!-- test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...) -->
                   <span class="method-name">test</span>
-                  <span class="parameters">(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, admin, Dont care, Dont care, [All Projects] General, Dont care, sometimes, Dont care, trivial, Dont care, low, Dont care, administrator, Dont care, Summary, Dont care, Description, Dont care, Platform, Dont care, Os, Dont care, Os version, Dont care, Dont care, Dont care, ADDitional info, Dont care, Tags, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Project 1, sometimes, trival, low, user1, Summary, Description, Platform, Os, OS version, Sreps to reproduce, ADDitional info, Tags, Dont care, Dont care)</span>
-                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Project 1
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: &apos;4.8.3&apos;, revision: &apos;e5e76298c3&apos;
-System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;
-Driver info: driver.version: unknown
-	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:147)
-	at PageObjects.Report_Issue_Page.select_Category(Report_Issue_Page.java:44)
-	at testsuite.Enter_Login_DetailsReport_new_issue.test(Enter_Login_DetailsReport_new_issue.java:234)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 27 stack frames
-</div> <!-- stack-trace -->
+                  <span class="parameters">(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, , Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-TestSuite-class-failed -->
+          </div> <!-- suite-TestSuite-class-passed -->
+          <div class="suite-TestSuite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testsuite.EmptyUsername</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, , Dont care, Dont ca...)">
+                  </a> <!-- test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, , Dont care, Dont ca...) -->
+                  <span class="method-name">test</span>
+                  <span class="parameters">(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, , Dont care, Dont care, Dont care, Dont care, Dont care)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-TestSuite-class-passed -->
+          <div class="suite-TestSuite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testsuite.Invalidpassword</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)">
+                  </a> <!-- test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...) -->
+                  <span class="method-name">test</span>
+                  <span class="parameters">(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, adm, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care, Dont care)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-TestSuite-class-passed -->
         </div> <!-- panel TestSuite -->
         <div panel-name="test-xml-TestSuite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\kumaran\workspace\MantisPositive\src\main\java\TestSuite_Sequential.xml</span>
+            <span class="header-content">C:\Users\DhineshlingamNataraj\Downloads\MantisScriptSar_demo\src\main\java\TestSuite_Sequential.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -158,9 +189,19 @@ Driver info: driver.version: unknown
 &lt;suite name=&quot;TestSuite&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;TestCase1&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;testsuite.Enter_Login_DetailsReport_new_issue&quot;/&gt;
+      &lt;class name=&quot;testsuite.EmptyUsername&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- TestCase1 --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;TestCase2&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;testsuite.Emptypassword&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TestCase2 --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;TestCase3&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;testsuite.Invalidpassword&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TestCase3 --&gt;
 &lt;/suite&gt; &lt;!-- TestSuite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -173,6 +214,12 @@ Driver info: driver.version: unknown
             <ul>
               <li>
                 <span class="test-name">TestCase1 (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">TestCase2 (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">TestCase3 (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -198,16 +245,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(3);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'test')
-data.setCell(0, 2, 'testsuite.Enter_Login_DetailsReport_new_issue')
-data.setCell(0, 3, 4549);
+data.setCell(0, 2, 'testsuite.EmptyUsername')
+data.setCell(0, 3, 7258);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'test')
+data.setCell(1, 2, 'testsuite.Emptypassword')
+data.setCell(1, 3, 3491);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'test')
+data.setCell(2, 2, 'testsuite.Invalidpassword')
+data.setCell(2, 3, 3399);
 window.suiteTableData['TestSuite']= { tableData: data, tableDiv: 'times-div-TestSuite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 4 seconds</span>
+              <span class="suite-total-time">Total running time: 14 seconds</span>
               <div id="times-div-TestSuite">
               </div> <!-- times-div-TestSuite -->
             </div> <!-- times-div -->
@@ -219,6 +274,16 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="reporter-method-div">
+              <span class="reporter-method-name">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, , Dont care, Dont ca...)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Step - 1- Perform Launch URL Action</span>
+                <span class="reporter-method-output">Step - 2- verify Login Screen screen</span>
+                <span class="reporter-method-output">Step - 3- Fill User Name form Login Screen screen</span>
+                <span class="reporter-method-output">Step - 4- click Login button Login Screen screen User Name form</span>
+                <span class="reporter-method-output">Step - 5- verify Login Screen screen</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
               <span class="reporter-method-name">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)</span>
               <div class="reporter-method-output-div">
                 <span class="reporter-method-output">Step - 1- Perform Launch URL Action</span>
@@ -228,9 +293,20 @@ return data;
                 <span class="reporter-method-output">Step - 5- verify Loginpass Screen screen</span>
                 <span class="reporter-method-output">Step - 6- Fill Password form Loginpass Screen screen</span>
                 <span class="reporter-method-output">Step - 7- click Login button Loginpass Screen screen Password form</span>
-                <span class="reporter-method-output">Step - 8- Select Report Issuse Button clickchoice Mantis Home screen Mantis Navbar menubar Report menu</span>
-                <span class="reporter-method-output">Step - 9- verify Report Issue screen</span>
-                <span class="reporter-method-output">Step - 10- Fill Enter Issue Details form Report Issue screen</span>
+                <span class="reporter-method-output">Step - 8- verify Loginpass Screen screen</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Step - 1- Perform Launch URL Action</span>
+                <span class="reporter-method-output">Step - 2- verify Login Screen screen</span>
+                <span class="reporter-method-output">Step - 3- Fill User Name form Login Screen screen</span>
+                <span class="reporter-method-output">Step - 4- click Login button Login Screen screen User Name form</span>
+                <span class="reporter-method-output">Step - 5- verify Loginpass Screen screen</span>
+                <span class="reporter-method-output">Step - 6- Fill Password form Loginpass Screen screen</span>
+                <span class="reporter-method-output">Step - 7- click Login button Loginpass Screen screen Password form</span>
+                <span class="reporter-method-output">Step - 8- verify Loginpass Screen screen</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -248,20 +324,48 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">testsuite.Enter_Login_DetailsReport_new_issue</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">testsuite.EmptyUsername</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">getDeviceDriver</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)</span>
-                <span class="method-start">3510 ms</span>
+                <span class="method-name">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, , Dont care, Dont ca...)</span>
+                <span class="method-start">2117 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">export</span>
-                <span class="method-start">8068 ms</span>
+                <span class="method-start">9384 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testsuite.Emptypassword</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">getDeviceDriver</span>
+                <span class="method-start">9563 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)</span>
+                <span class="method-start">10460 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">export</span>
+                <span class="method-start">13953 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testsuite.Invalidpassword</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">getDeviceDriver</span>
+                <span class="method-start">14055 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">test(http://localhost/mantis, Dont care, Dont care, Dont care, Dont care, Dont care, administrator, Dont ...)</span>
+                <span class="method-start">14769 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">export</span>
+                <span class="method-start">18170 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

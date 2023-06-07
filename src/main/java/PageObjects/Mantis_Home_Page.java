@@ -36,7 +36,7 @@ public void click_Report(){
 		Report.click();
 }
 
-@FindBy(how= How.XPATH, using = "//i[@class='fa fa-edit menu-icon']")
+@FindBy(how= How.ID, using = "Report_Issuse_Button")
 	public static WebElement Report_Issuse_Button;
 
 public void click_Report_Issuse_Button(){

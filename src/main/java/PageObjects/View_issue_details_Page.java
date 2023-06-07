@@ -1701,7 +1701,7 @@ public void click_Assigned_to_value(){
 //	}
 //
 //}
-//
+
 //public void verify_unnamed_Status(String data){
 //		//Verifies the Status of the unnamed
 //		if(!data.contentEquals("Dont care")){
@@ -1723,10 +1723,10 @@ public void click_Assigned_to_value(){
 //			}
 //		}
 //	}
-public void select_unnamed(String data){
-		Select dropdown= new Select(unnamed);
-		 dropdown.selectByVisibleText(data);
-}
+//public void select_unnamed(String data){
+//		Select dropdown= new Select(unnamed);
+//		 dropdown.selectByVisibleText(data);
+//}
 
 @FindBy(how= How.ID, using = "Current_issue_DD")
 	public static WebElement Current_issue_DD;

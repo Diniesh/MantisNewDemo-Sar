@@ -29,7 +29,7 @@
         <categoryProperties key="Output folder" value="Selenium Java"/>
         <categoryProperties key="Root package" value="src"/>
         <categoryProperties key="Test suite name" value="TestSuite"/>
-        <categoryProperties key="Browser Type" value="Mozilla"/>
+        <categoryProperties key="Browser Type" value="Chrome"/>
         <categoryProperties key="Append timestamp to the output folder" value="false"/>
         <categoryProperties key="GUI action automation mapping" value="GUI action automation mapping.xls"/>
         <categoryProperties key="Natural language automation mapping" value="Natural language automation mapping.xls"/>
@@ -47,7 +47,7 @@
   <projectProperties key="CreatorDataDistribution" value="false"/>
   <projectProperties key="IntelligentTestCaseNaming" value="true"/>
   <projectProperties key="LookAheadDepth" value="0"/>
-  <projectProperties key="MainActivityDiagram" value="model/Reportissue.ad"/>
+  <projectProperties key="MainActivityDiagram" value="model/Negativeflow.ad"/>
   <projectProperties key="OnlyFinalizedRuns" value="false"/>
   <projectProperties key="TestCaseIndexOffset" value="0"/>
   <projectProperties key="TestCaseNamePrefix" value="Test Case "/>

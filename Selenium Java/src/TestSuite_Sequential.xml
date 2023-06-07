@@ -2,17 +2,17 @@
 <suite name="TestSuite" verbose="1">
  <test name="TestCase1" >
     <classes>
-      <class name="testsuite.Enter_Login_DetailsReport_new_issue"/>
+      <class name="testsuite.EmptyUsername"/>
     </classes>
  </test>
  <test name="TestCase2" >
     <classes>
-      <class name="testsuite.Enter_Login_DetailsCreate_Project"/>
+      <class name="testsuite.Emptypassword"/>
     </classes>
  </test>
  <test name="TestCase3" >
     <classes>
-      <class name="testsuite.Enter_Login_DetailsSend_a_reminderReminder_submit"/>
+      <class name="testsuite.Invalidpassword"/>
     </classes>
  </test>
 </suite>
