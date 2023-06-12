@@ -1,4 +1,1000 @@
 com.conformiq.creator.structure.v15
+creator.gui.screen qml48a2f3de36f54d598091b741de28d2d5 "Manage_Screen"
+{
+	creator.gui.tab qml578fdcda6b3246688760d83fc1ea6eaa "I tab"
+	{
+		creator.gui.labelwidget qml6585d826e7d247c1b81aff0b9f9c7662
+		"Site information"
+			status = dontcare;
+	}
+	creator.gui.tab qml94d76dfa2f0a4dfabb4a90b2c070e725 "Manage users"
+		selected
+	{
+		creator.gui.button qml2066975b443f4d6a9bf29edad61d8eb2 "All"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'All\']";
+		]
+			status = dontcare;
+		creator.gui.button qml6610d169e83c428a8cc9eef5b88b6def "A"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'A\']";
+		]
+			status = dontcare;
+		creator.gui.button qml40f1883babc84f9bb904012c6e1759cb "B"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'B\']";
+		]
+			status = dontcare;
+		creator.gui.button qml5fabbb9d89294e4f8ad43503d048e387 "c"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'C\']";
+		]
+			status = dontcare;
+		creator.gui.button qmld76421760c7b42e680529ee0b055d48e "D"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'D\']";
+		]
+			status = dontcare;
+		creator.gui.button qmlec1daaf6b16b4ed2a5374fd1594a14d0 "E"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'E\']";
+		]
+			status = dontcare;
+		creator.gui.button qml8b6dee03153b4fbd8f51c5bedafa4e43 "S"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'S\']";
+		]
+			status = dontcare;
+		creator.gui.button qmlad31e281d48c4002bec0d0b9ffaf41c7 "R"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'R\']";
+		]
+			status = dontcare;
+		creator.gui.button qml500d6c79617d4c8b819405076425df00 "Q"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Q\']";
+		]
+			status = dontcare;
+		creator.gui.button qml25d9a203fc694f01892368ad81dc790f "N"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'N\']";
+		]
+			status = dontcare;
+		creator.gui.button qml8840b3601f97461091a929636a24eb9c "M"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'M\']";
+		]
+			status = dontcare;
+		creator.gui.button qml243406a8922c4f98a30ec7e8426afa3d "J"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'J\']";
+		]
+			status = dontcare;
+		creator.gui.button qmla4f97e52e4624dae92d333225d61e165 "L"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'L\']";
+		]
+			status = dontcare;
+		creator.gui.button qml9a593e4c5fe948109c463cd960d5c2b8 "O"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'O\']";
+		]
+			status = dontcare;
+		creator.gui.button qml772f700f002843e0a2b67490f5e90ab4 "I"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'I\']";
+		]
+			status = dontcare;
+		creator.gui.button qmlaff97441ca674ec4a9167beffacbe6bd "H"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'H\']";
+		]
+			status = dontcare;
+		creator.gui.button qml3922092a53c943dea9d5471e9d249960 "P"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'P\']";
+		]
+			status = dontcare;
+		creator.gui.button qml2ad1bd28b0844909a3673f2b33d24987 "K"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'K\']";
+		]
+			status = dontcare;
+		creator.gui.button qml528ed1e6f18845368bde2a66623ca670 "G"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'G\']";
+		]
+			status = dontcare;
+		creator.gui.button qml19b593a6a77e4c7fafc0787952323e19 "F"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'F\']";
+		]
+			status = dontcare;
+		creator.gui.button qmlbbd20220c39140409faa2baa1d33f973 "T"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'T\']";
+		]
+			status = dontcare;
+		creator.gui.button qml93927488f4c54e908d7e8ec2bac4a738 "Z"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Z\']";
+		]
+			status = dontcare;
+		creator.gui.button qml88afa0feb18d499daf60b64d6bfdc467 "Y"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Y\']";
+		]
+			status = dontcare;
+		creator.gui.button qml2a187281c8c048d980ad783e8ed8a62b "One"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'1\']";
+		]
+			status = dontcare;
+		creator.gui.button qml38ea8242934a44ed8946d593532c1064 "Three"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'3\']";
+		]
+			status = dontcare;
+		creator.gui.button qml2c185f0c11c841a8a58fd83d3b653130 "Two"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'2\']";
+		]
+			status = dontcare;
+		creator.gui.button qmld09b572b2d5849cb9da37b6734009564 "U"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'U\']";
+		]
+			status = dontcare;
+		creator.gui.button qmlcacd28fb9b4e49e79876f8488e6d6b2b "X"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'X\']";
+		]
+			status = dontcare;
+		creator.gui.button qmld1cdc5ba19784f03aeae6f8599376ef5 "V"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'V\']";
+		]
+			status = dontcare;
+		creator.gui.button qml0999019e73ac48118f97464b573693d4 "Five"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'5\']";
+		]
+			status = dontcare;
+		creator.gui.button qml27b1ae68c7684303b716143e25ddfd7a "Six"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'6\']";
+		]
+			status = dontcare;
+		creator.gui.button qml778010784cb841bead96765fb4d2d5da "Four"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'4\']";
+		]
+			status = dontcare;
+		creator.gui.button qml6fd364450e6841ba832b3c9ff98fff05 "Eight"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'8\']";
+		]
+			status = dontcare;
+		creator.gui.button qmlf65cd356817d4904bb6f1eac364f328e "Seven"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'7\']";
+		]
+			status = dontcare;
+		creator.gui.button qmlbdb596bcd5d04da6ab7d5589166add00 "Nine"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'9\']";
+		]
+			status = dontcare;
+		creator.gui.button qml334be317e38b4b4f83c5b616064aecfa "New"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'New\']";
+		]
+			status = dontcare;
+		creator.gui.button qmldeb7d3ca2a00408982cb438a5a69dd09 "unused"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Unused\']";
+		]
+			status = dontcare;
+		creator.gui.form qml2f55b43c0b144f59807597d034cab1b2 "CreateAccount"
+		{
+			creator.gui.textbox qml37a944d4f1a74e2aaf9c0f81d94a9b29 "CA_username"
+				annotations = [ "selenium:XPATH" = "//input[@id=\'user-username\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qml242262c39f254ae382897b9367442e33 "CA_realname"
+				annotations = [ "selenium:XPATH" = "//input[@id=\'user-realname\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qmlf50050e0d77749af9ead1dea228505d6 "CA_Email"
+				annotations = [ "selenium:XPATH" = "//input[@id=\'email-field\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.checkbox qmlbc17921a5c6345ce99b285a20f47db37 " CA_Enable"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[1]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.checkbox qml1d7576d6bc2343e5815b2205dc914602 "CA_Protected"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[2]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.dropdown qmle737529ca3404f42a603e47e697ef4e8 "AcessLevel_CA"
+				annotations = [ "selenium:XPATH" = "//select[@id=\'user-access-level\']";
+			]
+				type = qml30d0ed1e0fd6457bae2349d60009bdd7
+				status = dontcare;
+			creator.gui.button qml46cee4f32d1c4ce0a74dfd4cd7e2f735 "Createuser_CA"
+				annotations = [ "selenium:XPATH" = "//input[@value=\'Create User\']";
+			]
+				status = dontcare;
+		}
+	}
+	creator.gui.form qml18191262afc84e2b980014e70abba9dd "Manage accounts"
+	{
+		creator.gui.button qmle877a37d163b4a41b99f31cff1671e65 "Craete account_Ma"
+			annotations = [ "selenium:XPATH" =
+		"//a[normalize-space()=\'Create New Account\']";
+		]
+			status = dontcare;
+		creator.gui.checkbox qml3dc38846d6f14213aaa3778aa8cf8415 "Hide Inactive"
+			annotations = [ "selenium:XPATH" =
+		"//span[normalize-space()=\'Hide Inactive\']";
+		]
+			status = dontcare
+			checked = dontcare;
+		creator.gui.checkbox qmla8b38ae52a6e40b2ac75c4692536571d "Show Disabled"
+			annotations = [ "selenium:XPATH" =
+		"//span[normalize-space()=\'Show Disabled\']";
+		]
+			status = dontcare
+			checked = dontcare;
+		creator.gui.textbox qmlbf715c2910744761bc5297ad2e7a89bf
+		"Username,Realname or Email"
+			annotations = [ "selenium:XPATH" = "//input[@id=\'search\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.button qml286a65c7d8eb4dc0a29359553186f984 "Apply Filter"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Apply Filter\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qml1cff542cdfdc43baa7ff76a19a2217bd "Username"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Username\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qmld6aab15e99cd4d18b82b6fae709ba336 "Real name"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Real Name\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qml9d937304c45b4c1b899331047c0eb75e "Email"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'E-mail\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qml1f0a34d3d7cf4008adf22062557d9c78 "Access Level"
+			annotations = [ "selenium:XPATH" =
+		"//a[normalize-space()=\'Access Level\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qml4186a58b3ec249c68e8be324ef6dd846 "Enabled"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Enabled\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qml727a4ca1786747dfbbc3723110f1ae46 "Protected"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Protected\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qmlc9892a064c0147ee9c90b3c2b74ce7c5 "Date Created"
+			annotations = [ "selenium:XPATH" =
+		"//a[normalize-space()=\'Date Created\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qml83374a6178cd4b3785e90ac4735adc12 "Last Visit"
+			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Last Visit\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qmld537355e8eda4327af82dc6a2c2ded4c "administrator"
+			annotations = [ "selenium:XPATH" =
+		"//tbody//tr//td//a[contains(text(),\'administrator\')]";
+		]
+			status = dontcare;
+	}
+	creator.gui.tab qml9595c671501e4f98892b5a297aa57a94 "Manage Projects"
+	{
+		creator.gui.group qmlfab4691cb7164e30be1f694a958fce97 "Projects"
+		{
+			creator.gui.hyperlink qml59684d88ebf54200b89b8292f7a1c0ed "Name HL"
+				annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Name\']";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qml69e872c10b8144b0a8446d336731fad5 "Description HL"
+				annotations = [ "selenium:XPATH" =
+			"//a[normalize-space()=\'Description\']";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qmlc41a5f15d723415cb00df3d03561c5e8 "Status HL"
+				annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Status\']";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qmla47db79912734239b7d0cc17c0b7b911 "Enabled HL"
+				annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Enabled\']";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qml549e6d4155d54c1d84d547d61dc66f39 "Projectname HL"
+				annotations = [ "selenium:XPATH" =
+			"//tbody//tr//td//a[contains(text(),\'Automation\')]";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qmlb9fc0e9a6e1b4bfb8f65a8d025b88ccd "View Status HL"
+				annotations = [ "selenium:XPATH" =
+			"//a[normalize-space()=\'View Status\']";
+			]
+				status = dontcare;
+			creator.gui.button qml43955d863fc94c6faf1f0072e16f0be7 "Create Projects_MP"
+				annotations = [ "selenium:XPATH" =
+			"//button[normalize-space()=\'Create New Project\']";
+			]
+				status = dontcare;
+		}
+		creator.gui.form qml5681b100f353441d9330e2230a1dd8d9 "Global Categories"
+		{
+			creator.gui.button qml448a438468824105938f2d7204f8da54 "Edit_GC"
+				annotations = [ "selenium:XPATH" =
+			"(//button[@type=\'submit\'][normalize-space()=\'Edit\'])[1]";
+			]
+				status = dontcare;
+			creator.gui.button qmlf606d7dbd5c544259532a34c6fe0be55 "Delete_GC"
+				annotations = [ "selenium:XPATH" =
+			"(//button[@type=\'submit\'][normalize-space()=\'Delete\'])[1]";
+			]
+				status = dontcare;
+			creator.gui.textbox qml3ff8231df7e04f1eb3888eb7ab7cacf0
+			"Text global categories textbox"
+				annotations = [ "selenium:XPATH" = "//input[@name=\'name\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.button qml9d94653de40d4aa99bc3d93e4e36e10c "Add Category_GC"
+				annotations = [ "selenium:XPATH" = "//input[@value=\'Add Category\']";
+			]
+				status = dontcare;
+			creator.gui.button qmlfa71b22e67104f06be336455978d4ba7
+			"Add and Edit Category_GC"
+				annotations = [ "selenium:XPATH" =
+			"//input[@name=\'add_and_edit_category\']";
+			]
+				status = dontcare;
+		}
+	}
+	creator.gui.tab qml064e7239d0d54aa692850cf8cb08fbbe "Manage Tags"
+	{
+		creator.gui.group qmle805445206894e9b8ff29546531c72ec "Tags"
+		{
+			creator.gui.labelwidget qmld073af8e9f71497fbba891155b4bc597
+			"Name manage Tags"
+				status = dontcare;
+			creator.gui.labelwidget qml211a15a67a2c4efb9685a6c9a38d8298 "Created hl"
+				status = dontcare;
+			creator.gui.labelwidget qmle670440f0c014b06a2b3f5dbf79bfa4f
+			"Date Created HL"
+				status = dontcare;
+			creator.gui.labelwidget qml92fcee1bf33a446f8ccd143f5499aa63
+			"Last Updated HL"
+				status = dontcare;
+			creator.gui.hyperlink qml5a1ffee987224a1da90f715ff3ce2ddc "TagName"
+				annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'dd\']";
+			]
+				status = dontcare;
+		}
+		creator.gui.form qmlc5ce556106e14ff29d7c40077882161f "Create Tags"
+		{
+			creator.gui.textbox qml28ea1bd45c5349e28e806c7a1c5b1080
+			"Name Textbox create tags"
+				annotations = [ "selenium:XPATH" = "//input[@id=\'tag-name\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qmld40b444f3fd9401dad3b4650a37cd3fd "Tag Description"
+				annotations = [ "selenium:XPATH" = "//textarea[@id=\'tag-description\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.button qml16339671c58045a5b40ca978b800d828 "Create Tags_CT"
+				annotations = [ "selenium:XPATH" = "//input[@name=\'config_set\']";
+			]
+				status = dontcare;
+		}
+	}
+	creator.gui.form qml73a4bffcd656481f96f762d686ca5d49 "create new projects"
+	{
+		creator.gui.textbox qmla32db9e2bc4e439c847eafffff03f66d "projectnameCNP"
+			annotations = [ "selenium:XPATH" = "//input[@id=\'project-name\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.textbox qml62b4b2d07c594b7a9fc2b05d93d844bb "Description_CNP"
+			annotations = [ "selenium:XPATH" =
+		"//textarea[@id=\'project-description\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.button qml0a01cb5449a445a18e4ff8f68cf918e3 "Add project_CNP"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Add Project\']";
+		]
+			status = dontcare;
+		creator.gui.dropdown qml3bbc4307ab8c482a90d6a363ef4fb95a "Status"
+			annotations = [ "selenium:XPATH" = "//select[@id=\'project-status\']";
+		]
+			type = qml9513cd28fc8240c1a63951fb796f3b90
+			status = dontcare;
+		creator.gui.dropdown qml89e52ddca51f4bceb9116bc16caccd1f "ViewStatus"
+			annotations = [ "selenium:XPATH" = "//select[@id=\'project-view-state\']";
+		]
+			type = qml1f830b492e8346e49397ae435c8f3953
+			status = dontcare;
+		creator.gui.checkbox qml32a12e7cf9964d489c8010b415420678
+		"InheritanceGlobal_Sts"
+			annotations = [ "selenium:XPATH" = "//span[@class=\'lbl\']";
+		]
+			status = dontcare
+			checked = dontcare;
+	}
+	creator.gui.tab qml4057c044559546b39c13028fa6a5ab94 "Manage Custom Fields"
+	{
+		creator.gui.form qml94ab7f01746142e9a4d30b47f9cb8507 "Custom Fields"
+		{
+			creator.gui.hyperlink qml4b48eb6350af4b8ea52a6482a0e4edab "Type"
+				annotations = [ "selenium:XPATH" = "//div[normalize-space()=\'Type\']";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qml6dd807223e9b48008b759bc0849865bf "Name"
+				annotations = [ "selenium:XPATH" = "//div[normalize-space()=\'Name\']";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qml3c42f4a120d441af94762e2ac1ba6e01 "Default values"
+				annotations = [ "selenium:XPATH" =
+			"//div[normalize-space()=\'Default Value\']";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qmlc723b996e37743b593448fa47bcb4f40 "Possilbe values"
+				annotations = [ "selenium:XPATH" =
+			"//div[normalize-space()=\'Possible Values\']";
+			]
+				status = dontcare;
+			creator.gui.hyperlink qml164e421884a541429b236fb2d91ec3fe "Project Count"
+				annotations = [ "selenium:XPATH" =
+			"//div[normalize-space()=\'Project Count\']";
+			]
+				status = dontcare;
+			creator.gui.textbox qmlac641d3ff181469194ab3ff9a8019c32 "Enter Field"
+				annotations = [ "selenium:XPATH" = "//input[@name=\'name\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.button qml11c9ed35bebd437cb932f0f2830bc5bd "NewCustomField"
+				annotations = [ "selenium:XPATH" = "//input[@value=\'New Custom Field\']";
+			]
+				status = dontcare;
+		}
+		creator.gui.form qml6e009cc466b749be8e8db5e5da81d44b "EditCustomField"
+		{
+			creator.gui.textbox qmlf5c7efe8e2444cce8893673a0dc0aec9 "Name"
+				annotations = [ "selenium:XPATH" = "//input[@id=\'custom-field-name\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qml54a32bc5017d4bf1a58079c92a58a1a2 "Type"
+				annotations = [ "selenium:XPATH" = "//select[@id=\'custom-field-type\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qmla337e2c87f734603bfc4e78de546fcc2 "Possible values"
+				annotations = [ "selenium:XPATH" =
+			"//input[@id=\'custom-field-possible-values\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qml5f76bd58cf47469e97122a9b6fa0092a "Default values"
+				annotations = [ "selenium:XPATH" =
+			"//input[@id=\'custom-field-default-value\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qml32168fb62bbb4520ad12570f8dea5da2
+			"Regular Expression"
+				annotations = [ "selenium:XPATH" =
+			"//input[@id=\'custom-field-valid-regexp\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qmlfc429d14e7824942b09004b2c69101bf "Max length"
+				annotations = [ "selenium:XPATH" =
+			"//input[@id=\'custom-field-length-max\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qmld25a55520da5486fb6eb3465e73759f0 "Min length"
+				annotations = [ "selenium:XPATH" =
+			"//input[@id=\'custom-field-length-min\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.dropdown qmlbcff48a103ed4735939e94d0c5cde903 "WriteAccess"
+				annotations = [ "selenium:XPATH" =
+			"//select[@id=\'custom-field-access-level-rw\']";
+			]
+				type = qml1f8d51275f5941a495f40fd2b61314ae
+				status = dontcare;
+			creator.gui.dropdown qmlfafef0d0f263417f92b134ca854f3af4 "Readaccess"
+				annotations = [ "selenium:XPATH" =
+			"//select[@id=\'custom-field-access-level-r\']";
+			]
+				type = qmlbbf2cef792dc4eedb0e02279daa94a8f
+				status = dontcare;
+			creator.gui.checkbox qml182ae44bdd0c4c38b5b2e48f80071ea2 "Add filter"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[1]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.checkbox qmlc0931a33743a4f75918215e233a0ab79
+			"Display When Reporting Issues"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[2]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.textbox qmla7cec428613e4b0fac0a8fcf40121974
+			"Display When Updating Issues"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[3]";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.checkbox qml1b1a1f04a9704be98ed67c2e1fec88a7
+			"Display When Resolving Issues"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[4]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.checkbox qml7c6796dd9ff7450299377709f5286ea7
+			"Display When Closing Issues"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[5]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.checkbox qml58dffc564c274c3b9c6fcf737396b207
+			"Required On Report"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[6]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.checkbox qml9ac5a7bf1b2b4373a1b6821c0c2fa46f
+			"Required On Update"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[7]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.checkbox qml0fee26b103ee496181f83d18060656c8
+			"Required On Resolve"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[8]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.checkbox qmlc1ab497bb0f2427e9351497ba7c6af81
+			"Required On Close"
+				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[9]";
+			]
+				status = dontcare
+				checked = dontcare;
+			creator.gui.button qml4dfd8cfa9a934ca28513c7d66985465a
+			"UpdateCustomField_MCF"
+				annotations = [ "selenium:XPATH" =
+			"//input[@value=\'Update Custom Field\']";
+			]
+				status = dontcare;
+		}
+		creator.gui.button qmlf8736fbeea42474b98b6049a2c3089aa "Delete Custom Field"
+			annotations = [ "selenium:XPATH" =
+		"//input[@value=\'Delete Custom Field\']";
+		]
+			status = dontcare;
+		creator.gui.form qmle671f0c17e4c4de9a38823d6022191ec "linkCustomField"
+		{
+			creator.gui.button qml8c1ead9e8406451893793090828b46b5 "Remove"
+				annotations = [ "selenium:XPATH" =
+			"//a[@class=\'btn btn-primary btn-white btn-round btn-xs\']";
+			]
+				status = dontcare;
+			creator.gui.listbox qmld32fd423ad724b2cbe347122e612ec0e "Project_CF"
+				annotations = [ "selenium:XPATH" =
+			"//select[@id=\'custom-field-project-id\']";
+			]
+				status = dontcare
+				items = [ ];
+			creator.gui.textbox qml93ef4217d7a74f71bca53916da56f781 "Sequence"
+				annotations = [ "selenium:XPATH" =
+			"//input[@id=\'custom-field-sequence\']";
+			]
+				type = String
+				status = dontcare;
+		}
+		creator.gui.button qml737e14a2a09f4d61ab87822650e0a0e1 "LinkCustomField"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Link Custom Field\']";
+		]
+			status = dontcare;
+	}
+	creator.gui.tab qml596ab7e7c7214798aa5b954e94e46cd6 "ManageGlobalCategories"
+	{
+		creator.gui.group qml85a34e5a210b4ead84b47e43e03a0f75 "Profile_MGC"
+		{
+			creator.gui.labelwidget qmlbff1ce0b13e3405183a320cbe39327a5 "Platform_p"
+				annotations = [ "selenium:XPATH" = "";
+			]
+				status = dontcare;
+			creator.gui.labelwidget qml44811fce5f0e4f4fb701af0503e5d432 "os_p"
+				annotations = [ "selenium:XPATH" = "";
+			]
+				status = dontcare;
+			creator.gui.labelwidget qmlf732965af4d34a60a88245596d5d0dea "Os version_P"
+				annotations = [ "selenium:XPATH" = "";
+			]
+				status = dontcare;
+		}
+		creator.gui.labelwidget qml8b7d5c65d52040a29dff0108355a226c "Actions_P"
+			annotations = [ "selenium:XPATH" = "";
+		]
+			status = dontcare;
+		creator.gui.button qml75bb6975b23e423a9880d337bab9d60e "Edit_P"
+			annotations = [ "selenium:XPATH" = "//button[normalize-space()=\'Edit\']";
+		]
+			status = dontcare;
+		creator.gui.button qml4f4f6c0c3d84460bba377a9929d99f5b "Delete_P"
+			annotations = [ "selenium:XPATH" =
+		"//button[normalize-space()=\'Delete\']";
+		]
+			status = dontcare;
+		creator.gui.form qml80d91da8df1f4dc19aba4294cc93b4b1 "Addprofile_MGC"
+		{
+			creator.gui.textbox qmlbc19eddfabaf4623a04526074274a726 "Platform_AP"
+				annotations = [ "selenium:XPATH" = "//input[@id=\'platform\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qml819dc0f185284b2986fb215cfcebc9cb "Os_AP"
+				annotations = [ "selenium:XPATH" = "//input[@id=\'os\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qmla0b190a5476e48c1b3bc3214f0d342ba "Os version_AP"
+				annotations = [ "selenium:XPATH" = "//input[@id=\'os_build\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.textbox qml5dcec329ebf6435c928009a0b07426c0
+			"System Description_AP"
+				annotations = [ "selenium:XPATH" = "//textarea[@id=\'description\']";
+			]
+				type = String
+				status = dontcare;
+			creator.gui.button qml993eaae2310540dcad2e1bfde53f836a "Addprofile_AP"
+				annotations = [ "selenium:XPATH" =
+			"//button[@class=\'btn btn-primary btn-white btn-round\']";
+			]
+				status = dontcare;
+		}
+	}
+	creator.gui.group qmld804f1cfcd974eba817edfdabf562b1e "update and Del Tags"
+	{
+		creator.gui.button qml281f33868b204d6b996eb202bc0295e2 "UpdateTag"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Update Tag\']";
+		]
+			status = dontcare;
+		creator.gui.button qml2c8821b9008a4da6a0e179cb5ce42f62 "AttachedIssues"
+			annotations = [ "selenium:XPATH" =
+		"//a[@class=\'btn btn-primary btn-white btn-round btn-sm pull-right\']";
+		]
+			status = dontcare;
+		creator.gui.button qml32532e6229c840ab99e0d08114c04807 "DeleteTag"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Delete Tag\']";
+		]
+			status = dontcare;
+	}
+	creator.gui.form qml346e75ce288444d6a098d99428911549 "UpdateTag_UT"
+	{
+		creator.gui.textbox qml4411705ee421427da1cf25e8a7362922 "TagId_UT"
+			type = String
+			status = dontcare;
+		creator.gui.textbox qml91f6d808df11489480890b2b1655e7be "Name_UT"
+			annotations = [ "selenium:XPATH" = "//input[@id=\'tag-name\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.dropdown qml61a9f08631ee431883de6729029210f3 "Creator_UT_dt"
+			annotations = [ "selenium:XPATH" = "//select[@id=\'tag-user-id\']";
+		]
+			type = qmld0390311d0a84274ba0e6e66af0ebec2
+			status = dontcare;
+		creator.gui.textbox qmle51193a420ec437a87c25f86edb69f66 "Tag description"
+			annotations = [ "selenium:XPATH" = "//textarea[@id=\'tag-description\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.button qml9f06106512494b85b1151344ab6b6816 "updateTag_btn"
+			annotations = [ "selenium:XPATH" =
+		"//div[@class=\'main-content\']//div[3]";
+		]
+			status = dontcare;
+		creator.gui.button qml8c5f37eb5b6346e682e417d5578af26f "DeleteTags_UT"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Delete Tag\'";
+		]
+			status = dontcare;
+	}
+}
+creator.enum qml30d0ed1e0fd6457bae2349d60009bdd7 "createaccount_Enum"
+{
+	creator.enumerationvalue qmlb47c4ccaa05e4eaba0587cff5f7ed548 "Reporter";
+	creator.enumerationvalue qml4180466406544cf89072e1aed310628e "Updater";
+	creator.enumerationvalue qmlaae6224ceaf94604a241447ef96e870c "Developer";
+	creator.enumerationvalue qml195fd205f32944dc81a7e1a058db6bd2 "Manager";
+	creator.enumerationvalue qml81d19d16955145ae902da10dffe02fe4 "Viewer";
+	creator.enumerationvalue qml2e2dbef9cb5f4eb6a49e11b067c5b7a2 "Administrator";
+}
+creator.enum qml1f8d51275f5941a495f40fd2b61314ae "WriteaccessEnum"
+{
+	creator.enumerationvalue qmle8af5ae123344c1db6186e545f9e3eb2 "Reporter_WA";
+	creator.enumerationvalue qml9ab89ebb247249babacaefa5b09dd9cd "Updater_WA";
+	creator.enumerationvalue qml23ab63fc917d40528f723e9a4f6e2d58 "Developer_WA";
+	creator.enumerationvalue qmla0d74b90ad2240d5bf3defc06eec45bf "Manager_WA";
+	creator.enumerationvalue qml0df3839e10ae4d23b46b48386efa3fb6 "Viewer_WA";
+	creator.enumerationvalue qml51ed61f9161b4e89ab93731b04109240
+	"Administrator_WA";
+}
+creator.enum qmlbbf2cef792dc4eedb0e02279daa94a8f "ReadAccessenum"
+{
+	creator.enumerationvalue qmlf40e55ed616040caab3106b7bea8b8f2 "Reporter_RA";
+	creator.enumerationvalue qml0698c3d9b6f94eae84279f598c5b0080 "Updater_RA";
+	creator.enumerationvalue qml6601cb1d479645918c70460dc7ad6ff8 "Developer_RA";
+	creator.enumerationvalue qmlcb335b9de6274670bae4d5023fe2c29d "Manager_RA";
+	creator.enumerationvalue qmlb0c77013f9484d47a2847a0cf26c4d88 "Viewer_RA";
+	creator.enumerationvalue qml3fd5780e925f47749ebb30c807dd1ded
+	"Administrator_RA";
+}
+creator.enum qml9513cd28fc8240c1a63951fb796f3b90 "Status_Enum_CP"
+{
+	creator.enumerationvalue qml08eed2768f4544ddb4ffe3cb9fd5cae6 "development";
+	creator.enumerationvalue qml39166da3d7514d68b073d93449824bf6 "release";
+	creator.enumerationvalue qml8112b8afd890474dbfe88c9afc94e1b9 "stable";
+	creator.enumerationvalue qml221b2009ce8a42f6970a60350eb565c3 "obsolete";
+}
+creator.enum qml1f830b492e8346e49397ae435c8f3953 "Viewsts_CP"
+{
+	creator.enumerationvalue qmld4dc9b2746c445909cf5c25730743c85 "Public";
+	creator.enumerationvalue qmlbcab0075b54e4f1d9df51461c0d38ea7 "private";
+}
+creator.enum qmld0390311d0a84274ba0e6e66af0ebec2 "Update_tags_Enum"
+{
+	creator.enumerationvalue qml3df86de4cad14376acfc9208d547bc70 "NewTag_1";
+	creator.enumerationvalue qml3c1df743241e4e01a0f4965396206f1a "Administrator";
+}
+creator.gui.popup qmle715180b9fb6412386c8b88f780853fa "DeleteTag_popup"
+{
+	creator.gui.button qml1d9dd5e0bc984aa59657186f69fdd6e7 "del_tag"
+		status = dontcare;
+}
+creator.gui.screen qmlfaa46842c3fb4e5ca3defa9296fbda99 "ManageEditProject"
+{
+	creator.gui.form qml633d9743ce5f4d5e805c9c5d55ae567b "edit_new_project_ME"
+	{
+		creator.gui.textbox qmlcfe6d5bd3e404fb9998098fdda40d598 "projectnameED"
+			annotations = [ "selenium:XPATH" = "//input[@id=\'project-name\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.textbox qmlfe8ee5ce8a8e4eea920c8af8e931e40f "Description_CNP_ED"
+			annotations = [ "selenium:XPATH" =
+		"//textarea[@id=\'project-description\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.button qmlb0eb614c8ea9423ca8fe3e033cfafd48 "EDIT_project_EP"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Update Project\']";
+		]
+			status = dontcare;
+		creator.gui.dropdown qml43b664edbe364de086f3950156fc9445 "Status_ED"
+			annotations = [ "selenium:XPATH" = "//select[@id=\'project-status\']";
+		]
+			type = qml08097e5e8d714399b7e3bc199e4cba50
+			status = dontcare;
+		creator.gui.dropdown qmlcb1e9b33517d425697377ebd48098fee "ViewStatusED"
+			annotations = [ "selenium:XPATH" = "//select[@id=\'project-view-state\']";
+		]
+			type = qmlab245c988c8545a5b03a91a4dcc8b8cc
+			status = dontcare;
+		creator.gui.checkbox qmlbabde295e1e742808f75e599ac789cef
+		"InheritanceGlobal_Sts_ED"
+			annotations = [ "selenium:XPATH" =
+		"//input[@id=\'project-inherit-global\']";
+		]
+			status = dontcare
+			checked = dontcare;
+	}
+	creator.gui.form qml43d705d50a0c45c0a78d4dba378719c6 "Subproject_SP"
+	{
+		creator.gui.button qml89076d0acf604e80a434b4a18208dd65 "Createnew_project"
+			annotations = [ "selenium:XPATH" =
+		"//button[normalize-space()=\'Create New Subproject\']";
+		]
+			status = dontcare;
+		creator.gui.button qml1e13c911348c4735bf39e1e0ee45ebae "AddSubproject"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Add as Subproject\']";
+		]
+			status = dontcare;
+		creator.gui.dropdown qml7fc8f16b9ed44cec94d864e49063bad5 "Select_subprojct"
+			annotations = [ "selenium:XPATH" = "//div[@class=\'widget-main\']";
+		]
+			type = qmle5f6ba9fc63946c993ea3ce3ca1da4a2
+			status = dontcare;
+	}
+	creator.gui.button qml7e9454f6ed6c48778cfee79e1d7eca84 "Deleteproject_ED"
+		annotations = [ "selenium:XPATH" = "//input[@value=\'Delete Project\']";
+	]
+		status = dontcare;
+	creator.gui.form qmle2717706c8d9411397df2eaae3c12347 "Categories_MEP"
+	{
+		creator.gui.dropdown qml922ef30681a3463e98b7038a5f27342a "SelectCategories"
+			annotations = [ "selenium:XPATH" =
+		"//form[@id=\'manage-project-category-copy-form\']//select[@name=\'other_project_id\']";
+		]
+			type = qmla20263bd6d234b7d98b7d7586a58b556
+			status = dontcare;
+		creator.gui.button qmlbd69fd76a87c4cf3af02b62e39f5ca2a "Categories_From"
+			annotations = [ "selenium:XPATH" =
+		"//input[@value=\'Copy Categories From\']";
+		]
+			status = dontcare;
+		creator.gui.button qmlb6fcb984eb1342f585779bee0042cead "Categories_To"
+			annotations = [ "selenium:XPATH" =
+		"//input[@value=\'Copy Categories To\']";
+		]
+			status = dontcare;
+		creator.gui.textbox qml932dfd9e85ea4b7fa1205ba08020cee2 "Category_Textbx"
+			annotations = [ "selenium:XPATH" =
+		"//form[@id=\'project-add-category-form\']//input[@name=\'name\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.button qmlfbe63db5c6d54908b29645c3f7e5bf23 "AddCategories_AC"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Add Category\']";
+		]
+			status = dontcare;
+		creator.gui.button qmla04775fe3a7445e5af7809a8b086d8ad
+		"Add and EditCategories"
+			annotations = [ "selenium:XPATH" =
+		"//input[@name=\'add_and_edit_category\']";
+		]
+			status = dontcare;
+	}
+	creator.gui.form qml28f80ebd1acf4c13b8a626cb5a27fa71 "Version_MEP"
+	{
+		creator.gui.dropdown qmlecf0e0c7220b4e5e999531a2ded2307f "SelectVersion"
+			annotations = [ "selenium:XPATH" =
+		"//form[@id=\'manage-project-version-copy-form\']//select[@name=\'other_project_id\']";
+		]
+			type = qml29e8eebbafe44c1a8cb011df06cd5306
+			status = dontcare;
+		creator.gui.button qmldca9fc0c87f640e0a9ad8bc84fe097ad "Version_From"
+			annotations = [ "selenium:XPATH" =
+		"//input[@value=\'Copy Versions From\']";
+		]
+			status = dontcare;
+		creator.gui.button qml9b7cc1b5c73a4d878e45f6a7f4e2efd6 "Version_To"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy Versions To\']";
+		]
+			status = dontcare;
+		creator.gui.textbox qmld1ad2c6f43d84572b053b727c292b81f "Version_Textbx"
+			annotations = [ "selenium:XPATH" = "//input[@name=\'version\']";
+		]
+			type = String
+			status = dontcare;
+		creator.gui.button qml1d8967a54c5f4c01a84aaf16fc95335f "AddVersion"
+			annotations = [ "selenium:XPATH" = "//input[@name=\'add_version\']";
+		]
+			status = dontcare;
+		creator.gui.button qml21df506ce4ce4e5fa4c9bc1782f71fb1 "Add and EditVersion"
+			annotations = [ "selenium:XPATH" =
+		"//input[@name=\'add_and_edit_version\']";
+		]
+			status = dontcare;
+	}
+	creator.gui.form qml067a7293cdd34ad4a463cb0557144214 "CustomField_MEP"
+	{
+		creator.gui.dropdown qml5266c29971ee46d7b43a14cc2c91af18 "SelectCustomField"
+			annotations = [ "selenium:XPATH" =
+		"//form[@id=\'manage-project-custom-field-copy-form\']//select[@name=\'other_project_id\']";
+		]
+			type = qmlf74b27d5bdfd405a8866b7793f3b3f11
+			status = dontcare;
+		creator.gui.button qml2fbc135b9e1645f9975b0ec6f732d11c "Custom_From"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy From\']";
+		]
+			status = dontcare;
+		creator.gui.button qml9f7b22ea4f364ae3922aca863c6d972b "Custom_To"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy To\']";
+		]
+			status = dontcare;
+		creator.gui.button qml27259df38cc747ac9b12d974be955d6a
+		"Add Existing_customField"
+			annotations = [ "selenium:XPATH" =
+		"//input[@value=\'Add This Existing Custom Field\']";
+		]
+			status = dontcare;
+		creator.gui.dropdown qml48a5f90299ed4d7384f9a021fcb8213c "Custom_dropdown"
+			annotations = [ "selenium:XPATH" = "//select[@name=\'field_id\']";
+		]
+			type = qmlaca944d183624e3e90d336d8d8e94ef6
+			status = dontcare;
+	}
+	creator.gui.form qml66f0d4a34b364b4780a001901c87d92e "Manageaccount_MEP"
+	{
+		creator.gui.button qml6505cd60e5b64720b915cb1f623943e2 "Copy_acc_from"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy Users From\']";
+		]
+			status = dontcare;
+		creator.gui.button qml1307e87c172f45c39f6ddb56428b2670 "copy_acc_To"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy Users To\']";
+		]
+			status = dontcare;
+		creator.gui.button qml9b47c7edc028409f97d62c172dce4e26
+		"Show_users with globalaccess"
+			annotations = [ "selenium:XPATH" =
+		"//button[normalize-space()=\'Show Users with Global Access\']";
+		]
+			status = dontcare;
+		creator.gui.dropdown qml1fc10171aa2b4b9f9a9b6dc4517c1e2e
+		"selectManageACcount"
+			annotations = [ "selenium:XPATH" =
+		"//form[@id=\'manage-project-users-copy-form\']//select[@name=\'other_project_id\']";
+		]
+			type = qml01a5fd5159b146f3b929a738b8eca0bd
+			status = dontcare;
+	}
+	creator.gui.form qmld3c0d48ce359446aa51438931cfee9ec "Adduser_MEP"
+	{
+		creator.gui.listbox qml5afe9b2dfa5f41fa8c88ac054d7209f8 "Username"
+			annotations = [ "selenium:XPATH" =
+		"//option[normalize-space()=\'dhin3348\']";
+		]
+			status = dontcare
+			items = [ ];
+		creator.gui.dropdown qml7b6bf56e33d049aa8b8990d4654cace4
+		"AddUser_Accesslevel"
+			annotations = [ "selenium:XPATH" =
+		"//select[@id=\'project-add-users-access-level\']";
+		]
+			type = qmle4a26c0470e14b278c1da513d43ce04d
+			status = dontcare;
+		creator.gui.button qmlf2d0b2328d3a42248a14b86cec1a52ce "Add user_MEP"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Add User\']";
+		]
+			status = dontcare;
+	}
+}
+creator.enum qmlab245c988c8545a5b03a91a4dcc8b8cc "Viewsts_ED"
+{
+	creator.enumerationvalue qml24577e52403c4cca8ce010942053352f "PublicED";
+	creator.enumerationvalue qmlbe654a2c0fba4c6985fe30c523dcd449 "privateED";
+}
+creator.enum qml08097e5e8d714399b7e3bc199e4cba50 "Status_Enum_EP"
+{
+	creator.enumerationvalue qml85b169249837482e857682cab13f9030
+	"development_EP";
+	creator.enumerationvalue qmld00bef78e2a24a37884ada091d7fc910 "release_EP";
+	creator.enumerationvalue qml60f307b2e51f48eb858ef5e3cab1f5ba "stable_EP";
+	creator.enumerationvalue qmlced16c8849574587abea8788c6220700 "obsolete_EP";
+}
+creator.enum qmle5f6ba9fc63946c993ea3ce3ca1da4a2 "Subproject"
+{
+	creator.enumerationvalue qmlda415a18d4e544d0a7d8e7fe8b341873 "S_project1";
+	creator.enumerationvalue qmlb120a19f0be54a2194961ac8f903370b "S_project2";
+}
+creator.enum qmla20263bd6d234b7d98b7d7586a58b556 "Categories_Enum"
+{
+	creator.enumerationvalue qml33ab1fd0fcd34bba914b4cc7476594b9 "Cat_1";
+	creator.enumerationvalue qmlb0550206235f49359222d9b1e6d0b950 "Cat_2";
+}
+creator.enum qml29e8eebbafe44c1a8cb011df06cd5306 "Version_ENUM"
+{
+	creator.enumerationvalue qml397a719fe51f4ba0bbc0e15eaf68695f "Version_1";
+	creator.enumerationvalue qml94af77b8c43d4ac280424b6f6167ac3f "Version_2";
+}
+creator.enum qmlf74b27d5bdfd405a8866b7793f3b3f11 "Custom_ENUM"
+{
+	creator.enumerationvalue qml9566723d2df04e5aae8772333789e108 "Custom_1";
+	creator.enumerationvalue qmld1e2c8f4ce994a0eb9eceaef0004220a "Custom_2";
+}
+creator.enum qmlaca944d183624e3e90d336d8d8e94ef6 "CustomDropdown"
+{
+	creator.enumerationvalue qml04103e7876614cdfbf36977379dd540a
+	"Custom_project";
+}
+creator.enum qml01a5fd5159b146f3b929a738b8eca0bd "manageacc_enum"
+{
+	creator.enumerationvalue qml136d57bb0e7d45b79cc0e46eb5efb2fb "Account_1";
+}
+creator.enum qmle4a26c0470e14b278c1da513d43ce04d "accesslevel_MEP"
+{
+	creator.enumerationvalue qml0e34450f559a4836a11369e8553797ab "viewer_AL";
+	creator.enumerationvalue qmla3f2e9fb345e4538a940f5420eac09b8 "developer_AL";
+	creator.enumerationvalue qml2d80ace0ff25435489c41d3c7107ec94 "updater_AL";
+	creator.enumerationvalue qml5191d7df313446a3bb9d632be57811ce
+	"administrator_AL";
+	creator.enumerationvalue qmlc708134db7eb48acac267fd6d4baa3d0 "manager_AL";
+	creator.enumerationvalue qml176fea998b74467d979c02cc1021c282 "reporter_AL";
+}
 creator.gui.screen qml0bb9e335571d42e7afc5a5a8dffd603a "View Issues"
 {
 	creator.gui.form qmlf3efdb1809414140877ff9148f7546dc "Filters"
@@ -1067,6 +2063,81 @@ creator.enum qmlec082e4d87e54248a5a11c95575e06b6 "View Status -DD"
 	creator.enumerationvalue qml102a064eb27f44f6a79089e4f935db14 "public";
 	creator.enumerationvalue qml99b354497a134c499862a7baecab5b66 "private";
 }
+creator.gui.screen qml6cd31e3258e843db8de41e930d69905e "Issue Submit"
+{
+	creator.gui.labelwidget qml926122610a2647868df4959fb53f526d
+	"Operation Successful"
+		status = dontcare;
+	creator.gui.button qml0499d5cdd75f42c4b8c7f907823c6697
+	"View Submitted Issue -BTN"
+		status = dontcare;
+	creator.gui.button qml62ab26d0b49b4fcc81bae5af23453689 "View Issues -BTN"
+		status = dontcare;
+}
+creator.gui.screen qml91594035f0724937ba29f5671644936a "SignUp screen"
+{
+	creator.gui.form qml98840f00c1a244a4a2bcdcadf5cac07f "Signup form"
+	{
+		creator.gui.textbox qmldb0c5ba1a3df43c7ad75b404b9f8780b "username"
+			type = String
+			status = dontcare;
+		creator.gui.textbox qml900c7169e0c54bc1bb8fba9dd9f2e915 "email"
+			type = String
+			status = dontcare;
+		creator.gui.textbox qml49140d076c4445ad880de2eccbbaa823 "captcha box"
+			type = String
+			status = dontcare;
+		creator.gui.button qml1aed0841f33d4c168abc426df1730e6a "Read captcha"
+			status = dontcare;
+		creator.gui.button qmlfc5df9d0f02f4b698d52ff0fce56a501 "Reload captcha"
+			status = dontcare;
+		creator.gui.button qmlef9e24d2a5784aa09b167477780d714e "Signup"
+			annotations = [ "selenium:XPATH" = "//input[@value=\'Signup\']";
+		]
+			status = dontcare;
+		creator.gui.hyperlink qml165920f140fc4ee6961a580bf9a00d94 "Login"
+			status = dontcare
+			deleted;
+		creator.gui.hyperlink qml3f66976b35844444bdcb00f55498f20b
+		"Lost your password"
+			status = dontcare
+			deleted;
+	}
+	creator.gui.hyperlink qml0d94bf93a0304e149d6b876c997babdc "Login"
+		status = dontcare;
+	creator.gui.hyperlink qml25b60ae8f0cd40449f1b7544a601bfd3
+	"Lost your password"
+		status = dontcare;
+}
+creator.gui.screen qml465842ccf31748f8b4602aa9f5407f82
+"Signup/password reset error screen"
+{
+	creator.gui.labelwidget qmla3e95f6f494648ed88c1a5b8d3aa7f22
+	"Application error #number"
+		annotations = [ "selenium:XPATH" = "//p[@class=\'bold\']";
+	]
+		status = dontcare;
+}
+creator.gui.screen qml1e1ab8fef38644289d83880206fc6863
+"Forgot password screen"
+{
+	creator.gui.form qml55dabddffb15477e9bd77db6bcb0e7bb "Password reset"
+	{
+		creator.gui.textbox qml4d385a520d9449d2ac6a1356d3361378 "username"
+			type = String
+			status = dontcare;
+		creator.gui.textbox qmlf9332b898d5442738815fc89fc3c7c22 "email"
+			type = String
+			status = dontcare;
+		creator.gui.button qml2fa8c967aa524e68b7ddd7d92edb4d7e "submit"
+			status = dontcare;
+	}
+	creator.gui.hyperlink qml1a38f4eac21a4dfcbcf00df2712e4df0 "Login"
+		status = dontcare;
+	creator.gui.hyperlink qml31885a8291174ba495f63dd1b823d73a
+	"Signup for a new account"
+		status = dontcare;
+}
 creator.gui.screen qml4b1166851a70464eb31277269d74a594 "Mantis Home"
 {
 	creator.gui.menubar qml9f21ae91d8104198abca921edd76dc0e "Mantis Navbar"
@@ -1174,763 +2245,6 @@ creator.gui.screen qml4b1166851a70464eb31277269d74a594 "Mantis Home"
 			status = dontcare;
 	}
 }
-creator.gui.screen qml48a2f3de36f54d598091b741de28d2d5 "Manage_Screen"
-{
-	creator.gui.tab qml578fdcda6b3246688760d83fc1ea6eaa "I tab"
-	{
-		creator.gui.labelwidget qml6585d826e7d247c1b81aff0b9f9c7662
-		"Site information"
-			status = dontcare;
-	}
-	creator.gui.tab qml94d76dfa2f0a4dfabb4a90b2c070e725 "Manage users"
-		selected
-	{
-		creator.gui.button qml2066975b443f4d6a9bf29edad61d8eb2 "All"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'All\']";
-		]
-			status = dontcare;
-		creator.gui.button qml6610d169e83c428a8cc9eef5b88b6def "A"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'A\']";
-		]
-			status = dontcare;
-		creator.gui.button qml40f1883babc84f9bb904012c6e1759cb "B"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'B\']";
-		]
-			status = dontcare;
-		creator.gui.button qml5fabbb9d89294e4f8ad43503d048e387 "c"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'C\']";
-		]
-			status = dontcare;
-		creator.gui.button qmld76421760c7b42e680529ee0b055d48e "D"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'D\']";
-		]
-			status = dontcare;
-		creator.gui.button qmlec1daaf6b16b4ed2a5374fd1594a14d0 "E"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'E\']";
-		]
-			status = dontcare;
-		creator.gui.button qml8b6dee03153b4fbd8f51c5bedafa4e43 "S"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'S\']";
-		]
-			status = dontcare;
-		creator.gui.button qmlad31e281d48c4002bec0d0b9ffaf41c7 "R"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'R\']";
-		]
-			status = dontcare;
-		creator.gui.button qml500d6c79617d4c8b819405076425df00 "Q"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Q\']";
-		]
-			status = dontcare;
-		creator.gui.button qml25d9a203fc694f01892368ad81dc790f "N"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'N\']";
-		]
-			status = dontcare;
-		creator.gui.button qml8840b3601f97461091a929636a24eb9c "M"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'M\']";
-		]
-			status = dontcare;
-		creator.gui.button qml243406a8922c4f98a30ec7e8426afa3d "J"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'J\']";
-		]
-			status = dontcare;
-		creator.gui.button qmla4f97e52e4624dae92d333225d61e165 "L"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'L\']";
-		]
-			status = dontcare;
-		creator.gui.button qml9a593e4c5fe948109c463cd960d5c2b8 "O"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'O\']";
-		]
-			status = dontcare;
-		creator.gui.button qml772f700f002843e0a2b67490f5e90ab4 "I"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'I\']";
-		]
-			status = dontcare;
-		creator.gui.button qmlaff97441ca674ec4a9167beffacbe6bd "H"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'H\']";
-		]
-			status = dontcare;
-		creator.gui.button qml3922092a53c943dea9d5471e9d249960 "P"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'P\']";
-		]
-			status = dontcare;
-		creator.gui.button qml2ad1bd28b0844909a3673f2b33d24987 "K"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'K\']";
-		]
-			status = dontcare;
-		creator.gui.button qml528ed1e6f18845368bde2a66623ca670 "G"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'G\']";
-		]
-			status = dontcare;
-		creator.gui.button qml19b593a6a77e4c7fafc0787952323e19 "F"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'F\']";
-		]
-			status = dontcare;
-		creator.gui.button qmlbbd20220c39140409faa2baa1d33f973 "T"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'T\']";
-		]
-			status = dontcare;
-		creator.gui.button qml93927488f4c54e908d7e8ec2bac4a738 "Z"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Z\']";
-		]
-			status = dontcare;
-		creator.gui.button qml88afa0feb18d499daf60b64d6bfdc467 "Y"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Y\']";
-		]
-			status = dontcare;
-		creator.gui.button qml2a187281c8c048d980ad783e8ed8a62b "One"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'1\']";
-		]
-			status = dontcare;
-		creator.gui.button qml38ea8242934a44ed8946d593532c1064 "Three"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'3\']";
-		]
-			status = dontcare;
-		creator.gui.button qml2c185f0c11c841a8a58fd83d3b653130 "Two"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'2\']";
-		]
-			status = dontcare;
-		creator.gui.button qmld09b572b2d5849cb9da37b6734009564 "U"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'U\']";
-		]
-			status = dontcare;
-		creator.gui.button qmlcacd28fb9b4e49e79876f8488e6d6b2b "X"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'X\']";
-		]
-			status = dontcare;
-		creator.gui.button qmld1cdc5ba19784f03aeae6f8599376ef5 "V"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'V\']";
-		]
-			status = dontcare;
-		creator.gui.button qml0999019e73ac48118f97464b573693d4 "Five"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'5\']";
-		]
-			status = dontcare;
-		creator.gui.button qml27b1ae68c7684303b716143e25ddfd7a "Six"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'6\']";
-		]
-			status = dontcare;
-		creator.gui.button qml778010784cb841bead96765fb4d2d5da "Four"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'4\']";
-		]
-			status = dontcare;
-		creator.gui.button qml6fd364450e6841ba832b3c9ff98fff05 "Eight"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'8\']";
-		]
-			status = dontcare;
-		creator.gui.button qmlf65cd356817d4904bb6f1eac364f328e "Seven"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'7\']";
-		]
-			status = dontcare;
-		creator.gui.button qmlbdb596bcd5d04da6ab7d5589166add00 "Nine"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'9\']";
-		]
-			status = dontcare;
-		creator.gui.button qml334be317e38b4b4f83c5b616064aecfa "New"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'New\']";
-		]
-			status = dontcare;
-		creator.gui.button qmldeb7d3ca2a00408982cb438a5a69dd09 "unused"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Unused\']";
-		]
-			status = dontcare;
-		creator.gui.form qml2f55b43c0b144f59807597d034cab1b2 "CreateAccount"
-		{
-			creator.gui.textbox qml37a944d4f1a74e2aaf9c0f81d94a9b29 "CA_username"
-				annotations = [ "selenium:XPATH" = "//input[@id=\'user-username\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qml242262c39f254ae382897b9367442e33 "CA_realname"
-				annotations = [ "selenium:XPATH" = "//input[@id=\'user-realname\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qmlf50050e0d77749af9ead1dea228505d6 "CA_Email"
-				annotations = [ "selenium:XPATH" = "//input[@id=\'email-field\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.checkbox qmlbc17921a5c6345ce99b285a20f47db37 " CA_Enable"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[1]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.checkbox qml1d7576d6bc2343e5815b2205dc914602 "CA_Protected"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[2]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.dropdown qmle737529ca3404f42a603e47e697ef4e8 "AcessLevel_CA"
-				annotations = [ "selenium:XPATH" = "//select[@id=\'user-access-level\']";
-			]
-				type = qml30d0ed1e0fd6457bae2349d60009bdd7
-				status = dontcare;
-			creator.gui.button qml46cee4f32d1c4ce0a74dfd4cd7e2f735 "Createuser_CA"
-				annotations = [ "selenium:XPATH" = "//input[@value=\'Create User\']";
-			]
-				status = dontcare;
-		}
-	}
-	creator.gui.form qml18191262afc84e2b980014e70abba9dd "Manage accounts"
-	{
-		creator.gui.button qmle877a37d163b4a41b99f31cff1671e65 "Craete account_Ma"
-			annotations = [ "selenium:XPATH" =
-		"//a[normalize-space()=\'Create New Account\']";
-		]
-			status = dontcare;
-		creator.gui.checkbox qml3dc38846d6f14213aaa3778aa8cf8415 "Hide Inactive"
-			annotations = [ "selenium:XPATH" =
-		"//span[normalize-space()=\'Hide Inactive\']";
-		]
-			status = dontcare
-			checked = dontcare;
-		creator.gui.checkbox qmla8b38ae52a6e40b2ac75c4692536571d "Show Disabled"
-			annotations = [ "selenium:XPATH" =
-		"//span[normalize-space()=\'Show Disabled\']";
-		]
-			status = dontcare
-			checked = dontcare;
-		creator.gui.textbox qmlbf715c2910744761bc5297ad2e7a89bf
-		"Username,Realname or Email"
-			annotations = [ "selenium:XPATH" = "//input[@id=\'search\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.button qml286a65c7d8eb4dc0a29359553186f984 "Apply Filter"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Apply Filter\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qml1cff542cdfdc43baa7ff76a19a2217bd "Username"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Username\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qmld6aab15e99cd4d18b82b6fae709ba336 "Real name"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Real Name\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qml9d937304c45b4c1b899331047c0eb75e "Email"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'E-mail\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qml1f0a34d3d7cf4008adf22062557d9c78 "Access Level"
-			annotations = [ "selenium:XPATH" =
-		"//a[normalize-space()=\'Access Level\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qml4186a58b3ec249c68e8be324ef6dd846 "Enabled"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Enabled\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qml727a4ca1786747dfbbc3723110f1ae46 "Protected"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Protected\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qmlc9892a064c0147ee9c90b3c2b74ce7c5 "Date Created"
-			annotations = [ "selenium:XPATH" =
-		"//a[normalize-space()=\'Date Created\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qml83374a6178cd4b3785e90ac4735adc12 "Last Visit"
-			annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Last Visit\']";
-		]
-			status = dontcare;
-		creator.gui.hyperlink qmld537355e8eda4327af82dc6a2c2ded4c "administrator"
-			annotations = [ "selenium:XPATH" =
-		"//tbody//tr//td//a[contains(text(),\'administrator\')]";
-		]
-			status = dontcare;
-	}
-	creator.gui.tab qml9595c671501e4f98892b5a297aa57a94 "Manage Projects"
-	{
-		creator.gui.group qmlfab4691cb7164e30be1f694a958fce97 "Projects"
-		{
-			creator.gui.hyperlink qml59684d88ebf54200b89b8292f7a1c0ed "Name HL"
-				annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Name\']";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qml69e872c10b8144b0a8446d336731fad5 "Description HL"
-				annotations = [ "selenium:XPATH" =
-			"//a[normalize-space()=\'Description\']";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qmlc41a5f15d723415cb00df3d03561c5e8 "Status HL"
-				annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Status\']";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qmla47db79912734239b7d0cc17c0b7b911 "Enabled HL"
-				annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'Enabled\']";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qml549e6d4155d54c1d84d547d61dc66f39 "Projectname HL"
-				annotations = [ "selenium:XPATH" =
-			"//tbody//tr//td//a[contains(text(),\'Automation\')]";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qmlb9fc0e9a6e1b4bfb8f65a8d025b88ccd "View Status HL"
-				annotations = [ "selenium:XPATH" =
-			"//a[normalize-space()=\'View Status\']";
-			]
-				status = dontcare;
-			creator.gui.button qml43955d863fc94c6faf1f0072e16f0be7 "Create Projects_MP"
-				annotations = [ "selenium:XPATH" =
-			"//button[normalize-space()=\'Create New Project\']";
-			]
-				status = dontcare;
-		}
-		creator.gui.form qml5681b100f353441d9330e2230a1dd8d9 "Global Categories"
-		{
-			creator.gui.button qml448a438468824105938f2d7204f8da54 "Edit_GC"
-				annotations = [ "selenium:XPATH" =
-			"(//button[@type=\'submit\'][normalize-space()=\'Edit\'])[1]";
-			]
-				status = dontcare;
-			creator.gui.button qmlf606d7dbd5c544259532a34c6fe0be55 "Delete_GC"
-				annotations = [ "selenium:XPATH" =
-			"(//button[@type=\'submit\'][normalize-space()=\'Delete\'])[1]";
-			]
-				status = dontcare;
-			creator.gui.textbox qml3ff8231df7e04f1eb3888eb7ab7cacf0
-			"Text global categories textbox"
-				annotations = [ "selenium:XPATH" = "//input[@name=\'name\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.button qml9d94653de40d4aa99bc3d93e4e36e10c "Add Category_GC"
-				annotations = [ "selenium:XPATH" = "//input[@value=\'Add Category\']";
-			]
-				status = dontcare;
-			creator.gui.button qmlfa71b22e67104f06be336455978d4ba7
-			"Add and Edit Category_GC"
-				annotations = [ "selenium:XPATH" =
-			"//input[@name=\'add_and_edit_category\']";
-			]
-				status = dontcare;
-		}
-	}
-	creator.gui.tab qml064e7239d0d54aa692850cf8cb08fbbe "Manage Tags"
-	{
-		creator.gui.group qmle805445206894e9b8ff29546531c72ec "Tags"
-		{
-			creator.gui.labelwidget qmld073af8e9f71497fbba891155b4bc597
-			"Name manage Tags"
-				status = dontcare;
-			creator.gui.labelwidget qml211a15a67a2c4efb9685a6c9a38d8298 "Created hl"
-				status = dontcare;
-			creator.gui.labelwidget qmle670440f0c014b06a2b3f5dbf79bfa4f
-			"Date Created HL"
-				status = dontcare;
-			creator.gui.labelwidget qml92fcee1bf33a446f8ccd143f5499aa63
-			"Last Updated HL"
-				status = dontcare;
-			creator.gui.hyperlink qml5a1ffee987224a1da90f715ff3ce2ddc "TagName"
-				annotations = [ "selenium:XPATH" = "//a[normalize-space()=\'dd\']";
-			]
-				status = dontcare;
-		}
-		creator.gui.form qmlc5ce556106e14ff29d7c40077882161f "Create Tags"
-		{
-			creator.gui.textbox qml28ea1bd45c5349e28e806c7a1c5b1080
-			"Name Textbox create tags"
-				annotations = [ "selenium:XPATH" = "//input[@id=\'tag-name\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qmld40b444f3fd9401dad3b4650a37cd3fd "Tag Description"
-				annotations = [ "selenium:XPATH" = "//textarea[@id=\'tag-description\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.button qml16339671c58045a5b40ca978b800d828 "Create Tags_CT"
-				annotations = [ "selenium:XPATH" = "//input[@name=\'config_set\']";
-			]
-				status = dontcare;
-		}
-	}
-	creator.gui.form qml73a4bffcd656481f96f762d686ca5d49 "create new projects"
-	{
-		creator.gui.textbox qmla32db9e2bc4e439c847eafffff03f66d "projectnameCNP"
-			annotations = [ "selenium:XPATH" = "//input[@id=\'project-name\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.textbox qml62b4b2d07c594b7a9fc2b05d93d844bb "Description_CNP"
-			annotations = [ "selenium:XPATH" =
-		"//textarea[@id=\'project-description\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.button qml0a01cb5449a445a18e4ff8f68cf918e3 "Add project_CNP"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Add Project\']";
-		]
-			status = dontcare;
-		creator.gui.dropdown qml3bbc4307ab8c482a90d6a363ef4fb95a "Status"
-			annotations = [ "selenium:XPATH" = "//select[@id=\'project-status\']";
-		]
-			type = qml9513cd28fc8240c1a63951fb796f3b90
-			status = dontcare;
-		creator.gui.dropdown qml89e52ddca51f4bceb9116bc16caccd1f "ViewStatus"
-			annotations = [ "selenium:XPATH" = "//select[@id=\'project-view-state\']";
-		]
-			type = qml1f830b492e8346e49397ae435c8f3953
-			status = dontcare;
-		creator.gui.checkbox qml32a12e7cf9964d489c8010b415420678
-		"InheritanceGlobal_Sts"
-			annotations = [ "selenium:XPATH" = "//span[@class=\'lbl\']";
-		]
-			status = dontcare
-			checked = dontcare;
-	}
-	creator.gui.tab qml4057c044559546b39c13028fa6a5ab94 "Manage Custom Fields"
-	{
-		creator.gui.form qml94ab7f01746142e9a4d30b47f9cb8507 "Custom Fields"
-		{
-			creator.gui.hyperlink qml4b48eb6350af4b8ea52a6482a0e4edab "Type"
-				annotations = [ "selenium:XPATH" = "//div[normalize-space()=\'Type\']";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qml6dd807223e9b48008b759bc0849865bf "Name"
-				annotations = [ "selenium:XPATH" = "//div[normalize-space()=\'Name\']";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qml3c42f4a120d441af94762e2ac1ba6e01 "Default values"
-				annotations = [ "selenium:XPATH" =
-			"//div[normalize-space()=\'Default Value\']";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qmlc723b996e37743b593448fa47bcb4f40 "Possilbe values"
-				annotations = [ "selenium:XPATH" =
-			"//div[normalize-space()=\'Possible Values\']";
-			]
-				status = dontcare;
-			creator.gui.hyperlink qml164e421884a541429b236fb2d91ec3fe "Project Count"
-				annotations = [ "selenium:XPATH" =
-			"//div[normalize-space()=\'Project Count\']";
-			]
-				status = dontcare;
-			creator.gui.textbox qmlac641d3ff181469194ab3ff9a8019c32 "Enter Field"
-				annotations = [ "selenium:XPATH" = "//input[@name=\'name\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.button qml11c9ed35bebd437cb932f0f2830bc5bd "NewCustomField"
-				annotations = [ "selenium:XPATH" = "//input[@value=\'New Custom Field\']";
-			]
-				status = dontcare;
-		}
-		creator.gui.form qml6e009cc466b749be8e8db5e5da81d44b "EditCustomField"
-		{
-			creator.gui.textbox qmlf5c7efe8e2444cce8893673a0dc0aec9 "Name"
-				annotations = [ "selenium:XPATH" = "//input[@id=\'custom-field-name\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qml54a32bc5017d4bf1a58079c92a58a1a2 "Type"
-				annotations = [ "selenium:XPATH" = "//select[@id=\'custom-field-type\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qmla337e2c87f734603bfc4e78de546fcc2 "Possible values"
-				annotations = [ "selenium:XPATH" =
-			"//input[@id=\'custom-field-possible-values\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qml5f76bd58cf47469e97122a9b6fa0092a "Default values"
-				annotations = [ "selenium:XPATH" =
-			"//input[@id=\'custom-field-default-value\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qml32168fb62bbb4520ad12570f8dea5da2
-			"Regular Expression"
-				annotations = [ "selenium:XPATH" =
-			"//input[@id=\'custom-field-valid-regexp\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qmlfc429d14e7824942b09004b2c69101bf "Max length"
-				annotations = [ "selenium:XPATH" =
-			"//input[@id=\'custom-field-length-max\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qmld25a55520da5486fb6eb3465e73759f0 "Min length"
-				annotations = [ "selenium:XPATH" =
-			"//input[@id=\'custom-field-length-min\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.dropdown qmlbcff48a103ed4735939e94d0c5cde903 "WriteAccess"
-				annotations = [ "selenium:XPATH" =
-			"//select[@id=\'custom-field-access-level-rw\']";
-			]
-				type = qml1f8d51275f5941a495f40fd2b61314ae
-				status = dontcare;
-			creator.gui.dropdown qmlfafef0d0f263417f92b134ca854f3af4 "Readaccess"
-				annotations = [ "selenium:XPATH" =
-			"//select[@id=\'custom-field-access-level-r\']";
-			]
-				type = qmlbbf2cef792dc4eedb0e02279daa94a8f
-				status = dontcare;
-			creator.gui.checkbox qml182ae44bdd0c4c38b5b2e48f80071ea2 "Add filter"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[1]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.checkbox qmlc0931a33743a4f75918215e233a0ab79
-			"Display When Reporting Issues"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[2]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.textbox qmla7cec428613e4b0fac0a8fcf40121974
-			"Display When Updating Issues"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[3]";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.checkbox qml1b1a1f04a9704be98ed67c2e1fec88a7
-			"Display When Resolving Issues"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[4]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.checkbox qml7c6796dd9ff7450299377709f5286ea7
-			"Display When Closing Issues"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[5]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.checkbox qml58dffc564c274c3b9c6fcf737396b207
-			"Required On Report"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[6]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.checkbox qml9ac5a7bf1b2b4373a1b6821c0c2fa46f
-			"Required On Update"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[7]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.checkbox qml0fee26b103ee496181f83d18060656c8
-			"Required On Resolve"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[8]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.checkbox qmlc1ab497bb0f2427e9351497ba7c6af81
-			"Required On Close"
-				annotations = [ "selenium:XPATH" = "(//span[@class=\'lbl\'])[9]";
-			]
-				status = dontcare
-				checked = dontcare;
-			creator.gui.button qml4dfd8cfa9a934ca28513c7d66985465a
-			"UpdateCustomField_MCF"
-				annotations = [ "selenium:XPATH" =
-			"//input[@value=\'Update Custom Field\']";
-			]
-				status = dontcare;
-		}
-		creator.gui.button qmlf8736fbeea42474b98b6049a2c3089aa "Delete Custom Field"
-			annotations = [ "selenium:XPATH" =
-		"//input[@value=\'Delete Custom Field\']";
-		]
-			status = dontcare;
-		creator.gui.form qmle671f0c17e4c4de9a38823d6022191ec "linkCustomField"
-		{
-			creator.gui.button qml8c1ead9e8406451893793090828b46b5 "Remove"
-				annotations = [ "selenium:XPATH" =
-			"//a[@class=\'btn btn-primary btn-white btn-round btn-xs\']";
-			]
-				status = dontcare;
-			creator.gui.listbox qmld32fd423ad724b2cbe347122e612ec0e "Project_CF"
-				annotations = [ "selenium:XPATH" =
-			"//select[@id=\'custom-field-project-id\']";
-			]
-				status = dontcare
-				items = [ ];
-			creator.gui.textbox qml93ef4217d7a74f71bca53916da56f781 "Sequence"
-				annotations = [ "selenium:XPATH" =
-			"//input[@id=\'custom-field-sequence\']";
-			]
-				type = String
-				status = dontcare;
-		}
-		creator.gui.button qml737e14a2a09f4d61ab87822650e0a0e1 "LinkCustomField"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Link Custom Field\']";
-		]
-			status = dontcare;
-	}
-	creator.gui.tab qml596ab7e7c7214798aa5b954e94e46cd6 "ManageGlobalCategories"
-	{
-		creator.gui.group qml85a34e5a210b4ead84b47e43e03a0f75 "Profile_MGC"
-		{
-			creator.gui.labelwidget qmlbff1ce0b13e3405183a320cbe39327a5 "Platform_p"
-				annotations = [ "selenium:XPATH" = "";
-			]
-				status = dontcare;
-			creator.gui.labelwidget qml44811fce5f0e4f4fb701af0503e5d432 "os_p"
-				annotations = [ "selenium:XPATH" = "";
-			]
-				status = dontcare;
-			creator.gui.labelwidget qmlf732965af4d34a60a88245596d5d0dea "Os version_P"
-				annotations = [ "selenium:XPATH" = "";
-			]
-				status = dontcare;
-		}
-		creator.gui.labelwidget qml8b7d5c65d52040a29dff0108355a226c "Actions_P"
-			annotations = [ "selenium:XPATH" = "";
-		]
-			status = dontcare;
-		creator.gui.button qml75bb6975b23e423a9880d337bab9d60e "Edit_P"
-			annotations = [ "selenium:XPATH" = "//button[normalize-space()=\'Edit\']";
-		]
-			status = dontcare;
-		creator.gui.button qml4f4f6c0c3d84460bba377a9929d99f5b "Delete_P"
-			annotations = [ "selenium:XPATH" =
-		"//button[normalize-space()=\'Delete\']";
-		]
-			status = dontcare;
-		creator.gui.form qml80d91da8df1f4dc19aba4294cc93b4b1 "Addprofile_MGC"
-		{
-			creator.gui.textbox qmlbc19eddfabaf4623a04526074274a726 "Platform_AP"
-				annotations = [ "selenium:XPATH" = "//input[@id=\'platform\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qml819dc0f185284b2986fb215cfcebc9cb "Os_AP"
-				annotations = [ "selenium:XPATH" = "//input[@id=\'os\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qmla0b190a5476e48c1b3bc3214f0d342ba "Os version_AP"
-				annotations = [ "selenium:XPATH" = "//input[@id=\'os_build\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.textbox qml5dcec329ebf6435c928009a0b07426c0
-			"System Description_AP"
-				annotations = [ "selenium:XPATH" = "//textarea[@id=\'description\']";
-			]
-				type = String
-				status = dontcare;
-			creator.gui.button qml993eaae2310540dcad2e1bfde53f836a "Addprofile_AP"
-				annotations = [ "selenium:XPATH" =
-			"//button[@class=\'btn btn-primary btn-white btn-round\']";
-			]
-				status = dontcare;
-		}
-	}
-	creator.gui.group qmld804f1cfcd974eba817edfdabf562b1e "update and Del Tags"
-	{
-		creator.gui.button qml281f33868b204d6b996eb202bc0295e2 "UpdateTag"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Update Tag\']";
-		]
-			status = dontcare;
-		creator.gui.button qml2c8821b9008a4da6a0e179cb5ce42f62 "AttachedIssues"
-			annotations = [ "selenium:XPATH" =
-		"//a[@class=\'btn btn-primary btn-white btn-round btn-sm pull-right\']";
-		]
-			status = dontcare;
-		creator.gui.button qml32532e6229c840ab99e0d08114c04807 "DeleteTag"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Delete Tag\']";
-		]
-			status = dontcare;
-	}
-	creator.gui.form qml346e75ce288444d6a098d99428911549 "UpdateTag_UT"
-	{
-		creator.gui.textbox qml4411705ee421427da1cf25e8a7362922 "TagId_UT"
-			type = String
-			status = dontcare;
-		creator.gui.textbox qml91f6d808df11489480890b2b1655e7be "Name_UT"
-			annotations = [ "selenium:XPATH" = "//input[@id=\'tag-name\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.dropdown qml61a9f08631ee431883de6729029210f3 "Creator_UT_dt"
-			annotations = [ "selenium:XPATH" = "//select[@id=\'tag-user-id\']";
-		]
-			type = qmld0390311d0a84274ba0e6e66af0ebec2
-			status = dontcare;
-		creator.gui.textbox qmle51193a420ec437a87c25f86edb69f66 "Tag description"
-			annotations = [ "selenium:XPATH" = "//textarea[@id=\'tag-description\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.button qml9f06106512494b85b1151344ab6b6816 "updateTag_btn"
-			annotations = [ "selenium:XPATH" =
-		"//div[@class=\'main-content\']//div[3]";
-		]
-			status = dontcare;
-		creator.gui.button qml8c5f37eb5b6346e682e417d5578af26f "DeleteTags_UT"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Delete Tag\'";
-		]
-			status = dontcare;
-	}
-}
-creator.enum qml30d0ed1e0fd6457bae2349d60009bdd7 "createaccount_Enum"
-{
-	creator.enumerationvalue qmlb47c4ccaa05e4eaba0587cff5f7ed548 "Reporter";
-	creator.enumerationvalue qml4180466406544cf89072e1aed310628e "Updater";
-	creator.enumerationvalue qmlaae6224ceaf94604a241447ef96e870c "Developer";
-	creator.enumerationvalue qml195fd205f32944dc81a7e1a058db6bd2 "Manager";
-	creator.enumerationvalue qml81d19d16955145ae902da10dffe02fe4 "Viewer";
-	creator.enumerationvalue qml2e2dbef9cb5f4eb6a49e11b067c5b7a2 "Administrator";
-}
-creator.enum qml1f8d51275f5941a495f40fd2b61314ae "WriteaccessEnum"
-{
-	creator.enumerationvalue qmle8af5ae123344c1db6186e545f9e3eb2 "Reporter_WA";
-	creator.enumerationvalue qml9ab89ebb247249babacaefa5b09dd9cd "Updater_WA";
-	creator.enumerationvalue qml23ab63fc917d40528f723e9a4f6e2d58 "Developer_WA";
-	creator.enumerationvalue qmla0d74b90ad2240d5bf3defc06eec45bf "Manager_WA";
-	creator.enumerationvalue qml0df3839e10ae4d23b46b48386efa3fb6 "Viewer_WA";
-	creator.enumerationvalue qml51ed61f9161b4e89ab93731b04109240
-	"Administrator_WA";
-}
-creator.enum qmlbbf2cef792dc4eedb0e02279daa94a8f "ReadAccessenum"
-{
-	creator.enumerationvalue qmlf40e55ed616040caab3106b7bea8b8f2 "Reporter_RA";
-	creator.enumerationvalue qml0698c3d9b6f94eae84279f598c5b0080 "Updater_RA";
-	creator.enumerationvalue qml6601cb1d479645918c70460dc7ad6ff8 "Developer_RA";
-	creator.enumerationvalue qmlcb335b9de6274670bae4d5023fe2c29d "Manager_RA";
-	creator.enumerationvalue qmlb0c77013f9484d47a2847a0cf26c4d88 "Viewer_RA";
-	creator.enumerationvalue qml3fd5780e925f47749ebb30c807dd1ded
-	"Administrator_RA";
-}
-creator.enum qml9513cd28fc8240c1a63951fb796f3b90 "Status_Enum_CP"
-{
-	creator.enumerationvalue qml08eed2768f4544ddb4ffe3cb9fd5cae6 "development";
-	creator.enumerationvalue qml39166da3d7514d68b073d93449824bf6 "release";
-	creator.enumerationvalue qml8112b8afd890474dbfe88c9afc94e1b9 "stable";
-	creator.enumerationvalue qml221b2009ce8a42f6970a60350eb565c3 "obsolete";
-}
-creator.enum qml1f830b492e8346e49397ae435c8f3953 "Viewsts_CP"
-{
-	creator.enumerationvalue qmld4dc9b2746c445909cf5c25730743c85 "Public";
-	creator.enumerationvalue qmlbcab0075b54e4f1d9df51461c0d38ea7 "private";
-}
-creator.enum qmld0390311d0a84274ba0e6e66af0ebec2 "Update_tags_Enum"
-{
-	creator.enumerationvalue qml3df86de4cad14376acfc9208d547bc70 "NewTag_1";
-	creator.enumerationvalue qml3c1df743241e4e01a0f4965396206f1a "Administrator";
-}
-creator.gui.popup qmle715180b9fb6412386c8b88f780853fa "DeleteTag_popup"
-{
-	creator.gui.button qml1d9dd5e0bc984aa59657186f69fdd6e7 "del_tag"
-		status = dontcare;
-}
-creator.gui.screen qml6cd31e3258e843db8de41e930d69905e "Issue Submit"
-{
-	creator.gui.labelwidget qml926122610a2647868df4959fb53f526d
-	"Operation Successful"
-		status = dontcare;
-	creator.gui.button qml0499d5cdd75f42c4b8c7f907823c6697
-	"View Submitted Issue -BTN"
-		status = dontcare;
-	creator.gui.button qml62ab26d0b49b4fcc81bae5af23453689 "View Issues -BTN"
-		status = dontcare;
-}
 creator.gui.screen qmlbde0e62e89444a69a4c4216339834a4b "Login Screen"
 {
 	creator.gui.form qml48b4cd3b9e1f4782bc68e33ef6543221 "User Name"
@@ -1946,10 +2260,20 @@ creator.gui.screen qmlbde0e62e89444a69a4c4216339834a4b "Login Screen"
 			status = dontcare;
 		creator.gui.hyperlink qmlb1654316ce474026a0f44223f18b42ae
 		"Sign up for a new account"
-			status = dontcare;
+			status = dontcare
+			deleted;
 	}
 	creator.gui.labelwidget qml0f0768530ead4f34adddb688c32420e0
 	"Empty username error message"
+		annotations = [ "selenium:XPATH" =
+	"//p[contains(text(),\'Your account may be disabled or blocked or the use\')]";
+	]
+		status = dontcare;
+	creator.gui.hyperlink qml95ac638cdcc54df7aa3994ce755776dc
+	"Sign up for a new account"
+		annotations = [ "selenium:XPATH" =
+	"//a[contains(text(),\'Signup for a new account\')]";
+	]
 		status = dontcare;
 }
 creator.gui.screen qml64e6033dc39c49e7939de52a6cfd5d6d "Loginpass Screen"
@@ -1987,257 +2311,10 @@ creator.gui.screen qml64e6033dc39c49e7939de52a6cfd5d6d "Loginpass Screen"
 	}
 	creator.gui.labelwidget qml07043145593645c999b8750325c2bcb2
 	"Invalid credentials error message"
-		status = dontcare;
-}
-creator.gui.screen qmlfaa46842c3fb4e5ca3defa9296fbda99 "ManageEditProject"
-{
-	creator.gui.form qml633d9743ce5f4d5e805c9c5d55ae567b "edit_new_project_ME"
-	{
-		creator.gui.textbox qmlcfe6d5bd3e404fb9998098fdda40d598 "projectnameED"
-			annotations = [ "selenium:XPATH" = "//input[@id=\'project-name\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.textbox qmlfe8ee5ce8a8e4eea920c8af8e931e40f "Description_CNP_ED"
-			annotations = [ "selenium:XPATH" =
-		"//textarea[@id=\'project-description\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.button qmlb0eb614c8ea9423ca8fe3e033cfafd48 "EDIT_project_EP"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Update Project\']";
-		]
-			status = dontcare;
-		creator.gui.dropdown qml43b664edbe364de086f3950156fc9445 "Status_ED"
-			annotations = [ "selenium:XPATH" = "//select[@id=\'project-status\']";
-		]
-			type = qml08097e5e8d714399b7e3bc199e4cba50
-			status = dontcare;
-		creator.gui.dropdown qmlcb1e9b33517d425697377ebd48098fee "ViewStatusED"
-			annotations = [ "selenium:XPATH" = "//select[@id=\'project-view-state\']";
-		]
-			type = qmlab245c988c8545a5b03a91a4dcc8b8cc
-			status = dontcare;
-		creator.gui.checkbox qmlbabde295e1e742808f75e599ac789cef
-		"InheritanceGlobal_Sts_ED"
-			annotations = [ "selenium:XPATH" =
-		"//input[@id=\'project-inherit-global\']";
-		]
-			status = dontcare
-			checked = dontcare;
-	}
-	creator.gui.form qml43d705d50a0c45c0a78d4dba378719c6 "Subproject_SP"
-	{
-		creator.gui.button qml89076d0acf604e80a434b4a18208dd65 "Createnew_project"
-			annotations = [ "selenium:XPATH" =
-		"//button[normalize-space()=\'Create New Subproject\']";
-		]
-			status = dontcare;
-		creator.gui.button qml1e13c911348c4735bf39e1e0ee45ebae "AddSubproject"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Add as Subproject\']";
-		]
-			status = dontcare;
-		creator.gui.dropdown qml7fc8f16b9ed44cec94d864e49063bad5 "Select_subprojct"
-			annotations = [ "selenium:XPATH" = "//div[@class=\'widget-main\']";
-		]
-			type = qmle5f6ba9fc63946c993ea3ce3ca1da4a2
-			status = dontcare;
-	}
-	creator.gui.button qml7e9454f6ed6c48778cfee79e1d7eca84 "Deleteproject_ED"
-		annotations = [ "selenium:XPATH" = "//input[@value=\'Delete Project\']";
+		annotations = [ "selenium:XPATH" =
+	"//p[contains(text(),\'Your account may be disabled or blocked or the use\')]";
 	]
 		status = dontcare;
-	creator.gui.form qmle2717706c8d9411397df2eaae3c12347 "Categories_MEP"
-	{
-		creator.gui.dropdown qml922ef30681a3463e98b7038a5f27342a "SelectCategories"
-			annotations = [ "selenium:XPATH" =
-		"//form[@id=\'manage-project-category-copy-form\']//select[@name=\'other_project_id\']";
-		]
-			type = qmla20263bd6d234b7d98b7d7586a58b556
-			status = dontcare;
-		creator.gui.button qmlbd69fd76a87c4cf3af02b62e39f5ca2a "Categories_From"
-			annotations = [ "selenium:XPATH" =
-		"//input[@value=\'Copy Categories From\']";
-		]
-			status = dontcare;
-		creator.gui.button qmlb6fcb984eb1342f585779bee0042cead "Categories_To"
-			annotations = [ "selenium:XPATH" =
-		"//input[@value=\'Copy Categories To\']";
-		]
-			status = dontcare;
-		creator.gui.textbox qml932dfd9e85ea4b7fa1205ba08020cee2 "Category_Textbx"
-			annotations = [ "selenium:XPATH" =
-		"//form[@id=\'project-add-category-form\']//input[@name=\'name\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.button qmlfbe63db5c6d54908b29645c3f7e5bf23 "AddCategories_AC"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Add Category\']";
-		]
-			status = dontcare;
-		creator.gui.button qmla04775fe3a7445e5af7809a8b086d8ad
-		"Add and EditCategories"
-			annotations = [ "selenium:XPATH" =
-		"//input[@name=\'add_and_edit_category\']";
-		]
-			status = dontcare;
-	}
-	creator.gui.form qml28f80ebd1acf4c13b8a626cb5a27fa71 "Version_MEP"
-	{
-		creator.gui.dropdown qmlecf0e0c7220b4e5e999531a2ded2307f "SelectVersion"
-			annotations = [ "selenium:XPATH" =
-		"//form[@id=\'manage-project-version-copy-form\']//select[@name=\'other_project_id\']";
-		]
-			type = qml29e8eebbafe44c1a8cb011df06cd5306
-			status = dontcare;
-		creator.gui.button qmldca9fc0c87f640e0a9ad8bc84fe097ad "Version_From"
-			annotations = [ "selenium:XPATH" =
-		"//input[@value=\'Copy Versions From\']";
-		]
-			status = dontcare;
-		creator.gui.button qml9b7cc1b5c73a4d878e45f6a7f4e2efd6 "Version_To"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy Versions To\']";
-		]
-			status = dontcare;
-		creator.gui.textbox qmld1ad2c6f43d84572b053b727c292b81f "Version_Textbx"
-			annotations = [ "selenium:XPATH" = "//input[@name=\'version\']";
-		]
-			type = String
-			status = dontcare;
-		creator.gui.button qml1d8967a54c5f4c01a84aaf16fc95335f "AddVersion"
-			annotations = [ "selenium:XPATH" = "//input[@name=\'add_version\']";
-		]
-			status = dontcare;
-		creator.gui.button qml21df506ce4ce4e5fa4c9bc1782f71fb1 "Add and EditVersion"
-			annotations = [ "selenium:XPATH" =
-		"//input[@name=\'add_and_edit_version\']";
-		]
-			status = dontcare;
-	}
-	creator.gui.form qml067a7293cdd34ad4a463cb0557144214 "CustomField_MEP"
-	{
-		creator.gui.dropdown qml5266c29971ee46d7b43a14cc2c91af18 "SelectCustomField"
-			annotations = [ "selenium:XPATH" =
-		"//form[@id=\'manage-project-custom-field-copy-form\']//select[@name=\'other_project_id\']";
-		]
-			type = qmlf74b27d5bdfd405a8866b7793f3b3f11
-			status = dontcare;
-		creator.gui.button qml2fbc135b9e1645f9975b0ec6f732d11c "Custom_From"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy From\']";
-		]
-			status = dontcare;
-		creator.gui.button qml9f7b22ea4f364ae3922aca863c6d972b "Custom_To"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy To\']";
-		]
-			status = dontcare;
-		creator.gui.button qml27259df38cc747ac9b12d974be955d6a
-		"Add Existing_customField"
-			annotations = [ "selenium:XPATH" =
-		"//input[@value=\'Add This Existing Custom Field\']";
-		]
-			status = dontcare;
-		creator.gui.dropdown qml48a5f90299ed4d7384f9a021fcb8213c "Custom_dropdown"
-			annotations = [ "selenium:XPATH" = "//select[@name=\'field_id\']";
-		]
-			type = qmlaca944d183624e3e90d336d8d8e94ef6
-			status = dontcare;
-	}
-	creator.gui.form qml66f0d4a34b364b4780a001901c87d92e "Manageaccount_MEP"
-	{
-		creator.gui.button qml6505cd60e5b64720b915cb1f623943e2 "Copy_acc_from"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy Users From\']";
-		]
-			status = dontcare;
-		creator.gui.button qml1307e87c172f45c39f6ddb56428b2670 "copy_acc_To"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Copy Users To\']";
-		]
-			status = dontcare;
-		creator.gui.button qml9b47c7edc028409f97d62c172dce4e26
-		"Show_users with globalaccess"
-			annotations = [ "selenium:XPATH" =
-		"//button[normalize-space()=\'Show Users with Global Access\']";
-		]
-			status = dontcare;
-		creator.gui.dropdown qml1fc10171aa2b4b9f9a9b6dc4517c1e2e
-		"selectManageACcount"
-			annotations = [ "selenium:XPATH" =
-		"//form[@id=\'manage-project-users-copy-form\']//select[@name=\'other_project_id\']";
-		]
-			type = qml01a5fd5159b146f3b929a738b8eca0bd
-			status = dontcare;
-	}
-	creator.gui.form qmld3c0d48ce359446aa51438931cfee9ec "Adduser_MEP"
-	{
-		creator.gui.listbox qml5afe9b2dfa5f41fa8c88ac054d7209f8 "Username"
-			annotations = [ "selenium:XPATH" =
-		"//option[normalize-space()=\'dhin3348\']";
-		]
-			status = dontcare
-			items = [ ];
-		creator.gui.dropdown qml7b6bf56e33d049aa8b8990d4654cace4
-		"AddUser_Accesslevel"
-			annotations = [ "selenium:XPATH" =
-		"//select[@id=\'project-add-users-access-level\']";
-		]
-			type = qmle4a26c0470e14b278c1da513d43ce04d
-			status = dontcare;
-		creator.gui.button qmlf2d0b2328d3a42248a14b86cec1a52ce "Add user_MEP"
-			annotations = [ "selenium:XPATH" = "//input[@value=\'Add User\']";
-		]
-			status = dontcare;
-	}
-}
-creator.enum qmlab245c988c8545a5b03a91a4dcc8b8cc "Viewsts_ED"
-{
-	creator.enumerationvalue qml24577e52403c4cca8ce010942053352f "PublicED";
-	creator.enumerationvalue qmlbe654a2c0fba4c6985fe30c523dcd449 "privateED";
-}
-creator.enum qml08097e5e8d714399b7e3bc199e4cba50 "Status_Enum_EP"
-{
-	creator.enumerationvalue qml85b169249837482e857682cab13f9030
-	"development_EP";
-	creator.enumerationvalue qmld00bef78e2a24a37884ada091d7fc910 "release_EP";
-	creator.enumerationvalue qml60f307b2e51f48eb858ef5e3cab1f5ba "stable_EP";
-	creator.enumerationvalue qmlced16c8849574587abea8788c6220700 "obsolete_EP";
-}
-creator.enum qmle5f6ba9fc63946c993ea3ce3ca1da4a2 "Subproject"
-{
-	creator.enumerationvalue qmlda415a18d4e544d0a7d8e7fe8b341873 "S_project1";
-	creator.enumerationvalue qmlb120a19f0be54a2194961ac8f903370b "S_project2";
-}
-creator.enum qmla20263bd6d234b7d98b7d7586a58b556 "Categories_Enum"
-{
-	creator.enumerationvalue qml33ab1fd0fcd34bba914b4cc7476594b9 "Cat_1";
-	creator.enumerationvalue qmlb0550206235f49359222d9b1e6d0b950 "Cat_2";
-}
-creator.enum qml29e8eebbafe44c1a8cb011df06cd5306 "Version_ENUM"
-{
-	creator.enumerationvalue qml397a719fe51f4ba0bbc0e15eaf68695f "Version_1";
-	creator.enumerationvalue qml94af77b8c43d4ac280424b6f6167ac3f "Version_2";
-}
-creator.enum qmlf74b27d5bdfd405a8866b7793f3b3f11 "Custom_ENUM"
-{
-	creator.enumerationvalue qml9566723d2df04e5aae8772333789e108 "Custom_1";
-	creator.enumerationvalue qmld1e2c8f4ce994a0eb9eceaef0004220a "Custom_2";
-}
-creator.enum qmlaca944d183624e3e90d336d8d8e94ef6 "CustomDropdown"
-{
-	creator.enumerationvalue qml04103e7876614cdfbf36977379dd540a
-	"Custom_project";
-}
-creator.enum qml01a5fd5159b146f3b929a738b8eca0bd "manageacc_enum"
-{
-	creator.enumerationvalue qml136d57bb0e7d45b79cc0e46eb5efb2fb "Account_1";
-}
-creator.enum qmle4a26c0470e14b278c1da513d43ce04d "accesslevel_MEP"
-{
-	creator.enumerationvalue qml0e34450f559a4836a11369e8553797ab "viewer_AL";
-	creator.enumerationvalue qmla3f2e9fb345e4538a940f5420eac09b8 "developer_AL";
-	creator.enumerationvalue qml2d80ace0ff25435489c41d3c7107ec94 "updater_AL";
-	creator.enumerationvalue qml5191d7df313446a3bb9d632be57811ce
-	"administrator_AL";
-	creator.enumerationvalue qmlc708134db7eb48acac267fd6d4baa3d0 "manager_AL";
-	creator.enumerationvalue qml176fea998b74467d979c02cc1021c282 "reporter_AL";
 }
 creator.externalinterface qml6906a09fc89f412cb22d9eae76487c0a "MantisBT-ca"
 	direction = in;

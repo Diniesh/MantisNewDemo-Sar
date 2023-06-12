@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel TestSuite" parallel="methods" thread-count="2">
+ <test name="Parallel TestCase" >
+    <classes>
+      <class name="testsuite.Login_screen_with_username_inputsNull_Username"/>
+      <class name="testsuite.Node_Activity__Signup_"/>
+      <class name="testsuite.Login_screen_with_username_inputs"/>
+      <class name="testsuite.Login_screen_with_username_inputs__2_"/>
+      <class name="testsuite.Login_screen_with_username_inputsCredentials_check"/>
+    </classes>
+ </test>
+</suite>

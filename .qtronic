@@ -14,6 +14,11 @@
         <categoryProperties key="Merge steps with no verification point(s) with following step(s)" value="false"/>
         <categoryProperties key="Merge steps with no action(s) with preceding step(s)" value="false"/>
         <categoryProperties key="Omit information about where a requirement was included" value="true"/>
+        <categoryProperties key="Start steps from along with test body"/>
+      </scripterPropertyCategories>
+      <scripterPropertyCategories name="Rendering settings">
+        <categoryProperties key="Sort tests by Name" value="false"/>
+        <categoryProperties key="Test Name Prefix"/>
       </scripterPropertyCategories>
       <scripterPropertyCategories name="Mapping">
         <categoryProperties key="Custom mapping source"/>
@@ -23,10 +28,14 @@
         <categoryProperties key="No errors can be observed at the SUT" value="No errors can be observed at the SUT"/>
         <categoryProperties key="External circumstance prefix" value="External circumstance: "/>
       </scripterPropertyCategories>
+      <scripterPropertyCategories name="Impact Analysis">
+        <categoryProperties key="Generate Impact analysis Excel" value="false"/>
+        <categoryProperties key="Sprint" value="Sprint1"/>
+      </scripterPropertyCategories>
     </scripterConfigurations>
     <scripterConfigurations jarPath="Conformiq_Designer/SeleniumJavaScripter.jar" pluginName="SeleniumJavaScripter" enabled="true" sequenceNumber="1">
       <scripterPropertyCategories name="Main">
-        <categoryProperties key="Output folder" value="Selenium Java"/>
+        <categoryProperties key="Output folder" value="Selenium Java/NegativeFlow_Manish"/>
         <categoryProperties key="Root package" value="src"/>
         <categoryProperties key="Test suite name" value="TestSuite"/>
         <categoryProperties key="Browser Type" value="Chrome"/>
@@ -45,9 +54,10 @@
     </scripterConfigurations>
   </designConfigurations>
   <projectProperties key="CreatorDataDistribution" value="false"/>
+  <projectProperties key="Enable Multiple DCs" value="false"/>
   <projectProperties key="IntelligentTestCaseNaming" value="true"/>
   <projectProperties key="LookAheadDepth" value="0"/>
-  <projectProperties key="MainActivityDiagram" value="model/Negativeflow.ad"/>
+  <projectProperties key="MainActivityDiagram" value="model/AD_NegativeFlow_Manish/NegativeFlowManish.ad"/>
   <projectProperties key="OnlyFinalizedRuns" value="false"/>
   <projectProperties key="TestCaseIndexOffset" value="0"/>
   <projectProperties key="TestCaseNamePrefix" value="Test Case "/>
